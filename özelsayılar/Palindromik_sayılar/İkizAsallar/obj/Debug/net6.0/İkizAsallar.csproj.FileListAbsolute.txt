@@ -1,0 +1,15 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\bin\Debug\net6.0\İkizAsallar.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\bin\Debug\net6.0\İkizAsallar.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\bin\Debug\net6.0\İkizAsallar.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\bin\Debug\net6.0\İkizAsallar.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\bin\Debug\net6.0\İkizAsallar.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\obj\Debug\net6.0\İkizAsallar.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\obj\Debug\net6.0\İkizAsallar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\obj\Debug\net6.0\İkizAsallar.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\obj\Debug\net6.0\İkizAsallar.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\obj\Debug\net6.0\İkizAsallar.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\obj\Debug\net6.0\İkizAsallar.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\obj\Debug\net6.0\refint\İkizAsallar.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\obj\Debug\net6.0\İkizAsallar.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\obj\Debug\net6.0\İkizAsallar.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\İkizAsallar\obj\Debug\net6.0\ref\İkizAsallar.dll
