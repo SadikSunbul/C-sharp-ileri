@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Giriş_Similasyonu_Email_Doğrulamalı/1.0.0": {
+        "runtime": {
+          "Giriş_Similasyonu_Email_Doğrulamalı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Giriş_Similasyonu_Email_Doğrulamalı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
