@@ -1,0 +1,16 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\bin\Debug\denemeee.exe.config
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\bin\Debug\denemeee.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\bin\Debug\denemeee.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\obj\Debug\denemeee.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\obj\Debug\denemeee.csproj.SuggestedBindingRedirects.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\obj\Debug\MainWindow.g.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\obj\Debug\App.g.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\obj\Debug\denemeee_MarkupCompile.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\obj\Debug\denemeee_MarkupCompile.lref
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\obj\Debug\MainWindow.baml
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\obj\Debug\denemeee.g.resources
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\obj\Debug\denemeee.Properties.Resources.resources
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\obj\Debug\denemeee.csproj.GenerateResource.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\obj\Debug\denemeee.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\obj\Debug\denemeee.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\Ödev\proce11\denemeee\obj\Debug\denemeee.pdb

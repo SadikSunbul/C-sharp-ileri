@@ -1,0 +1,47 @@
+﻿<Window x:Class="denemeee.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:denemeee"
+        mc:Ignorable="d" Height="500" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" ScrollViewer.HorizontalScrollBarVisibility="Hidden" WindowState="Minimized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="180" ></ColumnDefinition>
+            <ColumnDefinition ></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <Border Grid.ColumnSpan="2" Background="#2E4F4F">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="180"/>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Border  Grid.Column="0" Grid.Row="0">
+                    <Image Source="/resimler/gmail.png" Width="64" Height="64" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                </Border>
+                <Border Grid.Column="1">
+                    <Label FontSize="25" VerticalContentAlignment="Center" HorizontalAlignment="Center" Content="Kᴀʏıᴛ Sᴀʏғᴀꜱıɴᴀ Hᴏꜱ̧ɢᴇʟᴅɪɴɪᴢ" Background="Transparent" Foreground="White" Cursor="IBeam" Focusable="True"/>
+
+                </Border>
+            </Grid>
+           
+
+
+        </Border>
+        <Border Grid.Column="0" Grid.Row="1" Background="#2C3333">
+            <Grid>
+                
+            </Grid>
+
+        </Border>
+        <Border Grid.Column="1" Grid.Row="1" Background="#CBE4DE">
+            
+        </Border>
+    </Grid>
+
+</Window>
