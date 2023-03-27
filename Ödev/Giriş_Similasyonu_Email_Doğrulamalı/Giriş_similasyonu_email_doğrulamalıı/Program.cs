@@ -15,7 +15,7 @@ namespace Giriş_similasyonu_email_doğrulamalıı
            
 
 
-            Google("Sadık Sünbül", "jsjsqwe12@gmail.com", "Sa05396631688", "sunbulali84@gmail.com", "Test", "Test Maili");
+            Google("Sadık Sünbül", "mail", "sifre", "sunbulali84@gmail.com", "Test", "Test Maili");
 
 
             void Google(string GondericiAdSoyad, string GondericiMail, string GondericiPass, string AliciMail, string Baslik, string icerik/*,string ek*/)
