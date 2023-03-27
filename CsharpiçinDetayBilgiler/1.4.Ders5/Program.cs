@@ -64,4 +64,57 @@ catch (DivideByZeroException ex)
 
 #region try - catch Birden Çok Catch Durumu
 
+try
+{
+    int s1=0, s2 = 10;
+    int a=s2 / s1;
+
+    //int.Parse("dxdfdhs");
+}
+catch (DivideByZeroException ex)
+{
+    //DivideByZeroException bu harta alınırsa burası calısır
+}
+catch (FormatException ex)
+{
+    //FormatException bu hata alınırsa burası calısır
+}
+catch (Exception ex)
+{
+    //ustekılerden hıcbırıı calısmazsa burası calısır ustekı hatalardan herhangı bırır calısırsa oradan sonra cıkar drekt olarak 
+    //rty catch yapılandırması ozelden genele dogru sıralanmalıdır sıralama cok onemlıdır burada
+    //Exception her zaman en sona konmalıdır
+}
+
+
+#endregion
+
+#region  try - catch finally Bloğu
+//bu blok try catch yapılandırmasında hata alınsada alınmasada her iki durumdada tetıklenen kod blogudur
+try
+{
+
+}
+catch ()
+{
+
+}
+finally
+{
+    //burası her turlu calısacaktır
+    //her ıkı durumdada calsır
+    //sımdı pek kullanılmıyor onceden cok kullanılırdı
+}
+#endregion
+
+#region try - catch when Yapısı İle Hata Filtreleme (C# 6.0)
+try
+{
+    int s1 = 0, s2 = 10;
+    int a = s2 / s1;
+}
+catch (DivideByZeroException ex) when (true)  //ve ıslemı yapar sol sagda true ıse calsır
+{
+    Console.WriteLine("mesaj:" + ex.Message);
+}
 #endregion
