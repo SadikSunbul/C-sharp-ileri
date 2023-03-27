@@ -1,17 +1,15 @@
-﻿
-
-#region try - catch Mekanizması
+﻿#region try - catch Mekanizması
 
 try
 {
-	//olası calısama zamanı hatası barındıran verebılecek olan kodları buray ayazıyoruz
-	Console.WriteLine("Bir sayı gırınız:");
-	int sayi=int.Parse(Console.ReadLine());
+    //olası calısama zamanı hatası barındıran verebılecek olan kodları buray ayazıyoruz
+    Console.WriteLine("Bir sayı gırınız:");
+    int sayi = int.Parse(Console.ReadLine());
     Console.WriteLine("Bir sayı gırınız:");
     int sayi1 = int.Parse(Console.ReadLine());
-    Console.WriteLine("sayıların toplamı:"+(sayi1+sayi));
+    Console.WriteLine("sayıların toplamı:" + (sayi1 + sayi));
 }
-catch 
+catch
 {
     //try ıcerısınde bır hata soz konusu oldugunda catch blogu tetıklenır
     //hataya dair ;log kullanıcı bılgılendırme,kontrollu kapanıs vs.
@@ -43,7 +41,7 @@ try
 }
 catch (Exception ex) //Exception --> bızlere hata ile lgili tum bılgılerı getıren bır ust turdur base clas yani tum hataları karsılar ex parametresı sayesınde bızler alınan hataya dair bılgıler edınebılmekteyız ve gerekli loglama vs. gibi operasyonları gerceklestıre bılmekteyız ...
 {
-    Console.WriteLine("Mesaj:"+ex.Message);
+    Console.WriteLine("Mesaj:" + ex.Message);
 }
 #endregion
 
@@ -57,7 +55,7 @@ try
 catch (DivideByZeroException ex)
 //Exception tum hataları karsılar ama burada ozellestırdık DivideByZeroException yaptık boyle bır durumda buna aıt hataları karsılaya bılır karsılamadıgı bır hata olursa try catch ıcerısındede patlama gerceklese bılır cozum olarak bırden fazla catch kullana bılırız
 {
-    Console.WriteLine("Hata:"+ex.Message);
+    Console.WriteLine("Hata:" + ex.Message);
 }
 
 #endregion
@@ -66,8 +64,8 @@ catch (DivideByZeroException ex)
 
 try
 {
-    int s1=0, s2 = 10;
-    int a=s2 / s1;
+    int s1 = 0, s2 = 10;
+    int a = s2 / s1;
 
     //int.Parse("dxdfdhs");
 }
