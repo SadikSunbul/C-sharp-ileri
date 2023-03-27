@@ -9,6 +9,8 @@
 
 //c# 7.0 ile yenı ozellıklerımız var 
 
+using System.Runtime.CompilerServices;
+
 string deger = "sa";
 
 switch (deger)
@@ -144,8 +146,36 @@ Console.WriteLine(mesaj);
 
 string mesaj2 = (sayi1, sayi2) switch
 {
-    (5, 10) => "5 ıle 10 geldı",
-    (3, 10) => "3 ıle 10 geldı"
+    (5, 10) when (true) => "5 ıle 10 geldı",
+   var x when x.sayi1%2==0 || x.sayi2==10 => "3 ıle 10 geldı"
 };
 
 #endregion
+
+#region C# 8.0 Switch Expressions - Property Patterns
+
+Ögrenci ogrenci = new()
+{
+    Adi = "Sadık",
+    Soyadı = "Sünbül",
+    Meslek = "computer engineer"
+};
+
+int maaş = ogrenci switch
+{
+    { Meslek: "computer engineer" } when(true)=>50000,
+   var x when x.Meslek=="Taksici" || x.Meslek=="Şoför" => 500,
+    { Meslek: "Öğretmen" } => 5000,
+    var x=>0 // yada _=>0
+};
+//{ Meslek: "Öğretmen" } burada bır nevi tursuz bıl calss olusturmus gıbı olduk sonra kıyasladık hangısıne esıtse ona gır dedık 
+Console.WriteLine(maaş);
+
+class Ögrenci
+{
+    public string Adi { get; set; }
+    public string Soyadı { get; set; }
+    public string Meslek { get; set; }
+}
+#endregion
+
