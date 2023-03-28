@@ -227,3 +227,34 @@ Array yaslarr3 = Array.CreateInstance(typeof(int), 3,5,6,7);
  */
 #endregion
 
+#region Kolleksıyonlar
+/*
+ C# programlama dilinde kullanılan koleksiyon sınıflarının bir listesini ve ilgili dokümantasyon linklerini aşağıda bulabilirsiniz:
+
+ArrayList: Nesnelerin dinamik olarak eklenebildiği ve çıkarılabildiği diziler için bir koleksiyon sağlar. Dokümantasyon: https://docs.microsoft.com/en-us/dotnet/api/system.collections.arraylist?view=net-6.0
+
+BitArray: Boolean değerlerinin sıkıştırılmış bir şekilde depolandığı bir dizidir. Dokümantasyon: https://docs.microsoft.com/en-us/dotnet/api/system.collections.bitarray?view=net-6.0
+
+Hashtable: Anahtar-değer çiftleri için bir koleksiyon sağlar. Dokümantasyon: https://docs.microsoft.com/en-us/dotnet/api/system.collections.hashtable?view=net-6.0
+
+Queue: İlk giren ilk çıkar mantığıyla elemanları tutan bir koleksiyondur. Dokümantasyon: https://docs.microsoft.com/en-us/dotnet/api/system.collections.queue?view=net-6.0
+
+Stack: Son giren ilk çıkar mantığıyla elemanları tutan bir koleksiyondur. Dokümantasyon: https://docs.microsoft.com/en-us/dotnet/api/system.collections.stack?view=net-6.0
+
+SortedList: Anahtar-değer çiftleri için sıralı bir koleksiyon sağlar. Dokümantasyon: https://docs.microsoft.com/en-us/dotnet/api/system.collections.sortedlist?view=net-6.0
+
+Dictionary: Anahtar-değer çiftleri için bir koleksiyon sağlar. Dokümantasyon: https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2?view=net-6.0
+
+List: Öğelerin sırayla depolandığı bir koleksiyon sağlar. Dokümantasyon: https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-6.0
+
+LinkedList: Birbirine bağlı düğümlerden oluşan bir koleksiyon sağlar. Dokümantasyon: https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.linkedlist-1?view=net-6.0
+
+HashSet: Tekrar eden öğelerin bulunmadığı bir koleksiyon sağlar. Dokümantasyon: https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.hashset-1?view=net-6.0
+
+ObservableCollection: Veri değişikliklerini takip ederek veri değişikliklerini bildiren bir koleksiyon sağlar. Dokümantasyon: https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.observablecollection-1?view=net-6.0
+
+ConcurrentDictionary: Aynı anda birden çok iş parçacığı tarafından güvenli bir şekilde kullanılabilecek bir sözlük sağlar. Dokümantasyon: https://docs.microsoft.com/en-us/dotnet/api/system.collections.concurrent.concurrentdictionary-2?view=net-6.0
+
+Bu sınıfların tamamı System.Collections ve System.Collections.Generic
+ */
+#endregion
