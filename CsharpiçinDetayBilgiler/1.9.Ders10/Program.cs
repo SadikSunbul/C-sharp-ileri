@@ -1,10 +1,4 @@
 ﻿
-string yt = "sadık saaas taahaasd";
-
-var data =yt.Split('a');
-Console.WriteLine(data.Length-1);
-
-Console.ReadLine();
 #region String Fonksiyonları
 
 #region Contains  ****
