@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\CsharpiçinDetayBilgiler\\1.8.Ders9\\1.8.Ders9.csproj",
-      "projectName": "2.3.Ders14",
-      "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\CsharpiçinDetayBilgiler\\1.8.Ders9\\1.8.Ders9.csproj",
+      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\CsharpiçinDetayBilgiler\\2.5.Ders14\\2.5.Ders14.csproj",
+      "projectName": "2.5.Ders14",
+      "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\CsharpiçinDetayBilgiler\\2.5.Ders14\\2.5.Ders14.csproj",
       "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\CsharpiçinDetayBilgiler\\2.3.Ders14\\obj\\",
+      "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\CsharpiçinDetayBilgiler\\2.5.Ders14\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
