@@ -76,6 +76,10 @@ class Curudİslemleri
     {
         if (!string.IsNullOrEmpty(kullanıcı.İsim) && !string.IsNullOrEmpty(kullanıcı.Soyisim) && !string.IsNullOrEmpty(kullanıcı.Mail) && !string.IsNullOrEmpty(kullanıcı.Şifre))
         {
+            using (resource)
+            {
+
+            }
             await context.Kullanıcılar.AddAsync(kullanıcı);
             await context.SaveChangesAsync();
         }
