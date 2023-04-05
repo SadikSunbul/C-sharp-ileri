@@ -40,6 +40,7 @@ Anne anne = new() {
 Araba araba = new() { Plaka = "42 aa 42" };
 
 ıslem.VeriEkle(anne, context);
+ıslem.VeriEkle<Anne>(anne, context); //ikiside olur ustekıde altakı gıbı calısıcaktır 
 ıslem.VeriGüncelle(araba, context);
 
 Console.WriteLine("Tamam");
