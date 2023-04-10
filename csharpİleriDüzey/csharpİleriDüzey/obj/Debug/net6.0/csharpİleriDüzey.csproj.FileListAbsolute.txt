@@ -1,0 +1,15 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\bin\Debug\net6.0\csharpİleriDüzey.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\bin\Debug\net6.0\csharpİleriDüzey.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\bin\Debug\net6.0\csharpİleriDüzey.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\bin\Debug\net6.0\csharpİleriDüzey.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\bin\Debug\net6.0\csharpİleriDüzey.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\obj\Debug\net6.0\csharpİleriDüzey.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\obj\Debug\net6.0\csharpİleriDüzey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\obj\Debug\net6.0\csharpİleriDüzey.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\obj\Debug\net6.0\csharpİleriDüzey.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\obj\Debug\net6.0\csharpİleriDüzey.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\obj\Debug\net6.0\csharpİleriDüzey.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\obj\Debug\net6.0\refint\csharpİleriDüzey.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\obj\Debug\net6.0\csharpİleriDüzey.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\obj\Debug\net6.0\csharpİleriDüzey.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\csharpİleriDüzey\csharpİleriDüzey\obj\Debug\net6.0\ref\csharpİleriDüzey.dll
