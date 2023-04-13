@@ -226,32 +226,3 @@ sqldb.ExecuteSql("");
 #endregion
 
 
-#region ornek
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#endregion
