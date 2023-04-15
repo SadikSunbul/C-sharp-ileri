@@ -40,7 +40,7 @@ namespace csharpİleriDüzey
        
     }
 
-    public class Bike : BaseVehicle, IRideable  
+    public class Bike : BaseVehicle, IRideable      
     {
       
         public void Ride()
