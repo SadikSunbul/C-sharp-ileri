@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "struct-class-solid-prensıp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegateler", "Delegateler\Delegateler.csproj", "{4347BF85-D736-47E0-ABF2-943C60527460}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SıralamaAlgorıtmaları", "SıralamaAlgorıtmaları\SıralamaAlgorıtmaları.csproj", "{D4DF1FC5-85F0-4FDC-9D43-649EC6A872F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SıralamaAlgorıtmaları", "SıralamaAlgorıtmaları\SıralamaAlgorıtmaları.csproj", "{D4DF1FC5-85F0-4FDC-9D43-649EC6A872F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref-Out", "Ref-Out\Ref-Out.csproj", "{4C92A3F4-2571-48E9-872A-FA2699BEDB4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D4DF1FC5-85F0-4FDC-9D43-649EC6A872F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4DF1FC5-85F0-4FDC-9D43-649EC6A872F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4DF1FC5-85F0-4FDC-9D43-649EC6A872F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C92A3F4-2571-48E9-872A-FA2699BEDB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C92A3F4-2571-48E9-872A-FA2699BEDB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C92A3F4-2571-48E9-872A-FA2699BEDB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C92A3F4-2571-48E9-872A-FA2699BEDB4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
