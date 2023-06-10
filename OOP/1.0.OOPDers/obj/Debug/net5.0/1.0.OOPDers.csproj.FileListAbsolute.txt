@@ -1,0 +1,16 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\bin\Debug\net5.0\1.0.OOPDers.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\bin\Debug\net5.0\1.0.OOPDers.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\bin\Debug\net5.0\1.0.OOPDers.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\bin\Debug\net5.0\1.0.OOPDers.runtimeconfig.dev.json
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\bin\Debug\net5.0\1.0.OOPDers.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\bin\Debug\net5.0\1.0.OOPDers.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\obj\Debug\net5.0\1.0.OOPDers.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\obj\Debug\net5.0\1.0.OOPDers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\obj\Debug\net5.0\1.0.OOPDers.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\obj\Debug\net5.0\1.0.OOPDers.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\obj\Debug\net5.0\1.0.OOPDers.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\obj\Debug\net5.0\1.0.OOPDers.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\obj\Debug\net5.0\refint\1.0.OOPDers.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\obj\Debug\net5.0\1.0.OOPDers.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\obj\Debug\net5.0\1.0.OOPDers.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.0.OOPDers\obj\Debug\net5.0\ref\1.0.OOPDers.dll
