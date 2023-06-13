@@ -6,7 +6,7 @@ namespace _1._2.OOPDers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
