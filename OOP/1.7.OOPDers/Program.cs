@@ -6,7 +6,19 @@ namespace _1._7.OOPDers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Özel sınıf elemanları 
+        }
+
+    }
+
+    #region Constructor Methot Nedir?
+    public class MyClass
+    {
+
+        public MyClass() //ctor yaz tab tab yap
+        {
+            
         }
     }
+    #endregion
 }
