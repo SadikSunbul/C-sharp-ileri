@@ -174,5 +174,13 @@ parametrelerinin değerlerinin derived class'tan verilmesini sağlar.
 • Record'lar sade ve sadece Record'lar dan kalıtım alabilmektedirler.
 • Class'lar dan kalıtım alamazlar yahut veremezler!
 • Kalıtımın tüm temel kuralları record'lar için geçerlidir;
+    • Bir record aynı anda birden fazla record'dan kalıtım alamaz!
+Record'lar da temelde Class oldukları için üretilir üretilmez otomatik olarak
+•
+Object•ten türerler.
+base ve this keywordleri aynı amaçla kullanılabilmektedir.
+•
+Name Hiding söz konusu olabilmektedir.
+• Ve aklıma gelmeyen diğer tüm durumlar da reccrd'lar için geçerlidir.
      */
 }
