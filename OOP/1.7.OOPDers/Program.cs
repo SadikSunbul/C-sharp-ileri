@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Buffers;
+using System.Xml.Serialization;
 
 namespace _1._7.OOPDers
 {
@@ -12,13 +13,14 @@ namespace _1._7.OOPDers
             new MyClass(15);
 
             MyClass5 myClass5 = new MyClass5()
-            { Name="Sadık",
-             Age=20
+            {
+                Name = "Sadık",
+                Age = 20
             };
 
             //Deconstruct
             var (x, y) = myClass5;//burada kendısı algılar methodu cagırmaya gerek yoktur ismı tam olarak boyle olmalıdır ama 
-            Console.WriteLine(x+" "+y);
+            Console.WriteLine(x + " " + y);
         }
 
     }
@@ -91,9 +93,9 @@ namespace _1._7.OOPDers
     {
         public MyClass1()
         {
-            
+
         }
-       
+
         ~MyClass1()//Destructor boyle tanımlanır 
         {
 
@@ -118,6 +120,65 @@ namespace _1._7.OOPDers
         }
 
     }
+    #endregion
+
+    #region Static Constructor
+    //bır sınıfta ctor ve statıc ctor var ıse nesne (ilk nesne )uretılırken  ılk statıc ctor tetıklenır ikinci nesne uretılırken statıc ctor tetiklenmez
+
+    //ctor ılgılı sınıftan her nesne uretılırken tetıklenır
+    //statıc ctor ıse ılgılı sınıftan ilk nesne uretılırken tetıklenen fonktur 
+
+    //statıc ctor  uygulama bazlı datalarımızı yerlestırdıgımız alandır 
+
+
+    class MyClass6
+    {
+        public MyClass6()
+        {
+
+        }
+        static MyClass6() //erısım belırleyıcısı yoktur overload yapılmaz 1 sınıfta sadece 1 tane tanımlanabılır parametre alamaz
+        {
+            //bu sınıftan ılk nesne uretılırken ılk tetıklenecek olan metot  
+            //uretılen ılk nesnenın dısında bırdaha tetıklenmez
+
+            //statıc ctor un tetıklenebılmesı ıcın ılla ilk nesne uretımı yapılmasına gerek yoktur ilgili sınıf ıcerısınde herhangıbır statıc yapılanmanında tetıklenmseı statıc ctor tetıklenmesını saglıycaktır.
+            //            MyClass6.Deneme();   --> bunu yazdıgımızdada tetiklenir statıc ctor burada normal ctor tetıklenmez cunkı nesne uretılmedi
+
+        }
+
+        public static void Deneme()
+        {
+
+        }
+    }
+
+    #region Singleton Desing Pattern
+    //bır sınıftan uygulama bazında sade ve sadece tek bır nesne olusturulmasını istiyorsan kullanılabılecegın bır desıgn pattern 
+
+    class Database
+    {
+        Database() //Nesne uretımını engelledık burada ctor private yapıldı
+        {
+
+        }
+        static Database database;
+        public Database GetInstance
+        {
+            get
+            {
+                return database;
+            }
+        }
+
+        static Database()
+        {
+            database=new Database();
+
+        }
+    }
+    #endregion
+
     #endregion
 }
 
