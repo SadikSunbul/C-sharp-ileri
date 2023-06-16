@@ -1,0 +1,5 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.9.OOPDers\obj\Debug\net5.0\1.9.OOPDers.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.9.OOPDers\obj\Debug\net5.0\1.9.OOPDers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.9.OOPDers\obj\Debug\net5.0\1.9.OOPDers.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.9.OOPDers\obj\Debug\net5.0\1.9.OOPDers.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\1.9.OOPDers\obj\Debug\net5.0\1.9.OOPDers.csproj.CoreCompileInputs.cache

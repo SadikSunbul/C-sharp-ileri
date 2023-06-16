@@ -10,6 +10,9 @@ namespace _1._9.OOPDers
         {
             //Kalıtım Inheritance
             Kadın kadın = new();
+            Y a= new();
+
+            a.x = 12; //hangı x ? bılınmıyor derleyıcı hata vermez y dekı x bu 
 
         }
     }
@@ -85,36 +88,91 @@ izin verilmektedir! Aynı anda birden fazla class•tan türeme işlemi gerçekl
 
     class A
     {
+        public int a { get; set; }
         public A()
         {
-            
+
         }
         public A(int a)
         {
-             
+
+        }
+
+        public void x()
+        {
+
         }
     }
-
-    class B:A
+    //:base() base classın ctorlarına erısım saglar 
+    class B : A
     {
-        public B():base()  //A nın parametresız halını tetıkler bunu yazmasakta olur cunku default olarak ztn bu calısır 
+        public int a { get; set; }
+        public void asf()
         {
-            
+            base.a = 14; //base class 
+            base.x(); //privateler gelmez buraya
+            this.a = 20; //bu sınıf
+        }
+        public B() : base()  //A nın parametresız halını tetıkler bunu yazmasakta olur cunku default olarak ztn bu calısır 
+        {
+
         }
         public B(int a) : base() //buda aynı sekılde bos olanı tetıkler
         {
 
         }
-        public B(int a,string b) : base(a) //burada int parameterlı olanı tetıkler
+        public B(int a, string b) : base(a) //burada int parameterlı olanı tetıkler
         {
 
         }
 
-        public B(string b):this (12,b) //bi ustekı ctoru tetıkler ilk 
+        public B(string b) : this(12, b) //bi ustekı ctoru tetıkler ilk 
         {
 
         }
     }
 
+    /*
+     base Keyword vs this Keyword
+• this, bir sınıftaki constructor•ıar arasında geçiş yapmamızı sağlar.
+• base, bir sınıfın base class'ının constructor'lanndan hangisinin tetikleneceğini ve varsa
+parametrelerinin değerlerinin derived class'tan verilmesini sağlar.
+     */
+    //Aynca nasıl ki this, ilgili sınıfta o anki nesnenin memberlanna erişebilmemizi sağlıyor, aynı şekilde base'de base class'da ki memberlara erişebilmemizi sağlamaktadır.
+
     #endregion
+
+    #region Inheritance (Kalıtım) 3
+    //Nesnelerdekı Tostring Equals vb.. methotlar nereden gelir? object den gelır tum nesneler onjecten kalıtılır
+
+    //en temel sınıf objectir 
+
+    //İsim saklama (Name hitting) Sorunsalı 
+    /*
+     Kalıtım durumlannda atalardaki herhangi bir member ile aynı isimde member'a sahip olan nesneler olabilmektedir.
+     */
+
+    class X
+    {
+        public int x { get; set; }
+        public int t { get; set; }
+    }
+    class Y : X
+    {
+        public new int x { get; set; } //eski
+        public int t { get; set; } //suanda bıldırmeye gerek yok
+    }
+    /*
+     Yukarıdakı vır Name Hiding durumu söz konusudur gunumuzde bu sekılde Name hidding durumlarında ekstradan bir bildiride bulunmak zorunlu değiliz
+    eskiden new kullanılmalıydaı ama  
+     */
+
+    #endregion
+
+    /*
+     Recordllar da Kalıtım?
+• Record'lar sade ve sadece Record'lar dan kalıtım alabilmektedirler.
+• Class'lar dan kalıtım alamazlar yahut veremezler!
+• Kalıtımın tüm temel kuralları record'lar için geçerlidir;
+     */
 }
