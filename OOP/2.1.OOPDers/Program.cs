@@ -116,9 +116,55 @@ namespace _2._1.OOPDers
     {
     }
 
-    can-do ilişkisi
+    can-do ilişkisi --> sonrakı derslerde gorecegımız ınterface yapılanmasının getirisi olna ilşki türüdür
+    Tabi ki can — ih*ishti utlayat*hnek için hterfaco yap.lanmw hakkımla fikir ohjmnasg
+Kısxa intetface; bir sınıfın İnzasıdır. Yani bir sınıfın içerisinde olxak olan tün” momt»r1Mtn
+pblcmımu/arayuzüno ohjşturduoumuz bir kontrattır. Herharo bir htorfaco'i uygulayan o int«face
+*orismth tammlanmış mornt»r imzalanm kendisinde ohişturmak Aksi taktirde «xn*r hata
+ver«ektir. Velhasıl tthn bunlan a'dan z'ye ihih konuya ait dersinizde tan teferruatlı in•lorniş olacaoız.
+
+    Interface'hr içlerü"daki memt»rlann ünzalxım classlara uygulattırdığımla' o interfaceler dgdi
+kabihyothri
+    Yani can-do ilişkisi bir nesnenin davranışlarının kabiliyetlerinin belirtmektedir
+
      */
 
+    interface IAraba
+    {
+        void Gazla();
+        void Frenle();
+    }
+    class Opel : IAraba //can-do 
+    {
+        public void Frenle()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Gazla()
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    #region Association Nedir?
+    /*
+     sınıflar arasındaki bağlantının zayıf biçimine verilen addın
+    'Bu bağlantı oldukça gevşektir. Yani, sınıflar kendi aralarında ilişkilidir lakin
+    birbirlerinden de bağımsızdırlar!
+    •Parça - bütün ilişkisi yoktur!
+    •Örneğin; bir otobüsteki yolcular ile otobüs arasındaki ilişki Assoc.iation'dır,
+    Nihayetinde hepsi aynı yöne gitmektedir. Lakin bir yolcu indiğinde bu durum
+    otobüsün ve diğer yolcuların durumunu değiştirmez!
+     */
+
+    #endregion
+    #region Aggregation ve Composition Nedir?
+   
+    //Tek basına anlam ıfade ederse Aggregation dur 
+
+
+    #endregion
 
     #endregion
 }
