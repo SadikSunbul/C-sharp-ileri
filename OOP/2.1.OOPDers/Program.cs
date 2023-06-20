@@ -17,8 +17,12 @@ namespace _2._1.OOPDers
 
 
             Erkek e1 = new Erkek();
+            e1.erkek();
+            e1.insan();
             İnsan e2 = new Erkek(); //erkek hem erkedir hemde insandır
-
+            e2.insan();
+            // e2.erkek --> hata verırı gelmez burada erkegın ınsan özelliklerine bakabiliriz
+            
             Kadın k1 = new Kadın();
             İnsan k2 = new Kadın();
 
@@ -85,16 +89,36 @@ namespace _2._1.OOPDers
 
     class İnsan
     {
-
+        public void insan() {}
     }
     class Erkek : İnsan
     {
-
+        public void erkek() { }
     }
     class Kadın : İnsan
     {
-
+        public void kadın() { }
     }
+
+    #endregion
+    #region Nesneler Arası İlişki Türleri (Association-Aggregation-Composition)
+    //Nesneler arasındakı ılıskı turlerı 
+
+    /*
+     is-a ilişkisi -->Tamamı ile kalıtımla alakalıdır opel is a araba --> opel bir arabadır dir 
+
+    has-a ilişkisi -->Bir sınıfın başka bir sınıfın nesnesıne dair sahiplik ifadesi bulunan ilişkidir Bir yandan Kompozisyon/composition ilişkiside denmektedir 
+        opel has a motor  --> opelin bir motoru vardır 
+    class opel{
+    Motor motor;
+    }
+    class motor
+    {
+    }
+
+    can-do ilişkisi
+     */
+
 
     #endregion
 }
