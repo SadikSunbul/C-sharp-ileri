@@ -102,7 +102,7 @@ int asdd1 = Convert.ToInt32(asd); //burada int e dondurduk
 //sitrıng=123; ise matamatıksel ıslem yaıcaksak bunu ınt dondurmek gereke bılır
 
 #region Checked
-//Bilinçli tür donusumunde erı kaybı oldugu zaman hata fırlatıcaktır
+//Bilinçli tür donusumunde Verı kaybı oldugu zaman hata fırlatıcaktır
 checked
 {
     int asdf = 550;

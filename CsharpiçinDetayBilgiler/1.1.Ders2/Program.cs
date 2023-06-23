@@ -46,7 +46,7 @@ Console.WriteLine(b is not null);
 #endregion
 
 #region as operatoru
-//cast operatorunun unboxıng ıslemıne alternatıf olarak tretılmıstır
+//cast operatorunun unboxıng ıslemıne alternatıf olarak tUretılmıstır
 
 //cast 
 object sa = 123;

@@ -63,7 +63,7 @@ int[] yaslar2 = new int[] { 2, 3, 45, 6 }; //aynı sey kendısı tanımlar uzunl
 
 int[] yaslar3 = new int[3] { 1,2,3};//eleman sayısı atandıysa hepsının atanması gerekır degılse hata verıcektır ,
 
-//varyasyon 5 -_>
+//varyasyon 5 -->
 
 int[] sayılar6 = new[] {3,5,7 };
 
@@ -105,7 +105,7 @@ Array dizi9 = new[] { 2, 3, 5, 6 };
 
 //yontem 3
 Array dizi11 = new int[3];
-dizi11.SetValue(30, 0); //0. ındexe 30 degerını atsadıkk burada
+dizi11.SetValue(30, 0); //0. ındexe 30 degerını atadık burada
 dizi11.SetValue(31, 1);
 dizi11.SetValue(32, 2);
 

@@ -43,7 +43,7 @@ switch (değer1)
         //buraya gırer
         break;
     case 200 when (3 == 3):
-        //buraya girmez ıısıde dogru olamlıydı
+        //buraya girmez ıKısıde dogru olamlıydı
         break;
     default:
         break;
@@ -164,6 +164,7 @@ string mesaj2 = (sayi1, sayi2) switch
 int maaş = ogrenci switch
 {
     { Meslek: "computer engineer" } when(true)=>50000,
+    { Adi:"Sadık"}=>600000,
    var x when x.Meslek=="Taksici" || x.Meslek=="Şoför" => 500,
     { Meslek: "Öğretmen" } => 5000,
     var x=>0 // yada _=>0
