@@ -21,7 +21,7 @@ namespace _1._3.OOPDers
         int a;
         public int MyProperty { get; set; }
         public void x() { }
-        public int this[int a] { get => a; }
+        public int this[int a] { get => a; }  //lıstelerde kullandıgımız zımbırtı 
         //bunlarınhepsı clas elemanıdır 
 
         public class MyClass2 //bu klasın elemanı degıldır 
@@ -48,9 +48,11 @@ namespace _1._3.OOPDers
     #region 1. Sınıfın Nesnesini Temsil eder
     class MyClass4
     {
+        public int y { get; set; }
+
         public void x()
         {
-
+            this.y = 1;
         }
 
     }
@@ -67,7 +69,7 @@ namespace _1._3.OOPDers
         {
             //a  -->Bu buradakı parametre olan a yı temsil eder
             // this.a bu ıse ustekı class elemanı olan a yı temsıl eder
-            
+
         }
     }
 

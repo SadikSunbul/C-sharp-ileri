@@ -83,7 +83,7 @@ namespace _1._6.OOPDers
         plana çıkmış bir Class.
      */
     /* class
-     Class'lar da verişel olarak nesne ön
+     Class'lar davranışsal olarak nesne ön
         plandadır ve bir farklı referansa sahip olan
         nesne farklı değer olarak algılanmaktadır.
         Dolayısıyla Equals(x, y) karşılaştırması
@@ -132,7 +132,7 @@ namespace _1._6.OOPDers
     manuel yeni bir nesne üretip mevcut nesnedeki
     değerleri, değişikliği yansıtılacak şekilde
     aktarmamız gerekmektedir.
-    Misal, yan tarafta bu tarz durumlara istinaden
+    Misal, üst tarafta bu tarz durumlara istinaden
     yazılımcıların yılların deneyiminden getirdiği With
     function çözümü ele alınmaktadır.
      */

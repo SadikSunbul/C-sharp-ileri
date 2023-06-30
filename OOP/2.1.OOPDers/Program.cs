@@ -109,7 +109,8 @@ namespace _2._1.OOPDers
 
     has-a ilişkisi -->Bir sınıfın başka bir sınıfın nesnesıne dair sahiplik ifadesi bulunan ilişkidir Bir yandan Kompozisyon/composition ilişkiside denmektedir 
         opel has a motor  --> opelin bir motoru vardır 
-    class opel{
+    class opel
+    {
     Motor motor;
     }
     class motor
@@ -118,7 +119,7 @@ namespace _2._1.OOPDers
 
     can-do ilişkisi --> sonrakı derslerde gorecegımız ınterface yapılanmasının getirisi olna ilşki türüdür
     Tabi ki can — ih*ishti utlayat*hnek için hterfaco yap.lanmw hakkımla fikir ohjmnasg
-Kısxa intetface; bir sınıfın İnzasıdır. Yani bir sınıfın içerisinde olxak olan tün” momt»r1Mtn
+Kısxa intetface; bir sınıfın İmzasıdır. Yani bir sınıfın içerisinde olcak olan tün” momt»r1Mtn
 pblcmımu/arayuzüno ohjşturduoumuz bir kontrattır. Herharo bir htorfaco'i uygulayan o int«face
 *orismth tammlanmış mornt»r imzalanm kendisinde ohişturmak Aksi taktirde «xn*r hata
 ver«ektir. Velhasıl tthn bunlan a'dan z'ye ihih konuya ait dersinizde tan teferruatlı in•lorniş olacaoız.

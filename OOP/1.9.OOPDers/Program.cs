@@ -34,6 +34,8 @@ namespace _1._9.OOPDers
         private string İsim { get; set; } //kalıtımda gitmez
         public string Soyisim { get; set; }
 
+        
+        
     }
 
     class Kadın : İnsan  //Kadın insandan kalıtım alır 

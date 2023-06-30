@@ -7,6 +7,9 @@ Xml formatına göre daha az yer kaplar ve kullanımı xml sistemine göre daha 
  */
 
 using _2._9.Json;
+using System.Configuration;
+
+using System.Data;
 
 List<Personel> Personeler=new List<Personel>();
 
@@ -50,5 +53,6 @@ Console.WriteLine("");
 #endregion
 
 #endregion
+
 
 
