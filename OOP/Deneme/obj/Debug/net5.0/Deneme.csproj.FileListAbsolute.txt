@@ -1,0 +1,16 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\bin\Debug\net5.0\Deneme.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\bin\Debug\net5.0\Deneme.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\bin\Debug\net5.0\Deneme.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\bin\Debug\net5.0\Deneme.runtimeconfig.dev.json
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\bin\Debug\net5.0\Deneme.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\bin\Debug\net5.0\Deneme.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\obj\Debug\net5.0\Deneme.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\obj\Debug\net5.0\Deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\obj\Debug\net5.0\Deneme.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\obj\Debug\net5.0\Deneme.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\obj\Debug\net5.0\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\obj\Debug\net5.0\Deneme.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\obj\Debug\net5.0\refint\Deneme.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\obj\Debug\net5.0\Deneme.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\obj\Debug\net5.0\Deneme.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\OOP\Deneme\obj\Debug\net5.0\ref\Deneme.dll
