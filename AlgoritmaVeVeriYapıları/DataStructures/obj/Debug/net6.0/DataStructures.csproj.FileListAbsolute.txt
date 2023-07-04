@@ -1,0 +1,12 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructures\bin\Debug\net6.0\DataStructures.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructures\bin\Debug\net6.0\DataStructures.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructures\bin\Debug\net6.0\DataStructures.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructures\obj\Debug\net6.0\DataStructures.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructures\obj\Debug\net6.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructures\obj\Debug\net6.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructures\obj\Debug\net6.0\DataStructures.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructures\obj\Debug\net6.0\refint\DataStructures.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructures\obj\Debug\net6.0\DataStructures.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructures\obj\Debug\net6.0\ref\DataStructures.dll

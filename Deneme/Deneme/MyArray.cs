@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Deneme
 {
-    public class MyArray<T> : IEnumerable<T>,ICloneable
+    public class MyArray<T> : IEnumerable<T>,ICloneable,ICollection<T>
     {
         private T[] InnerList;
 
@@ -38,6 +38,8 @@ namespace Deneme
 
         public int Count { get; private set; }
         public int Capasity => InnerList.Length;
+
+        public bool IsReadOnly => throw new NotImplementedException();
 
         public void Add(T item)
         {
@@ -98,6 +100,69 @@ namespace Deneme
         public object Clone()
         {
             return this.MemberwiseClone();
+        }
+
+        public void Clear()
+        {
+            System.Array.Clear(InnerList, 0, Count);
+        }
+
+        public bool Contains(T item)
+        {
+            if (item==null)
+            {
+                for (int i = 0; i < Count; i++)
+                {
+                    if (InnerList[i]==null)
+                    {
+                        return true;
+                    }
+                    
+                }
+                return false;
+            }
+            else
+            {
+                for (int i = 0; i < Count; i++)
+                {
+                    if (InnerList[i] is T o && o.Equals(item))
+                    {
+                        return true;
+                    }
+                }   
+                return false;
+            }
+        }
+
+        public void CopyTo(T[] array, int arrayIndex)
+        {
+            CopyTo(InnerList, 0);
+        }
+
+        public bool Remove(T item)
+        {
+            int index= Array.IndexOf(InnerList, item);
+            if (index>=0)
+            {
+                
+            }
+        }
+
+        public void RemoveAt(int index)
+        {
+            if (index < 0 || index >=Count)
+            {
+                throw new ArgumentOutOfRangeException("boyle bır tanım yok index 0 dan buyuk ve max degerden kucuk olamlıdır bu ındexte bır deger yoktur ");
+            }
+
+            Count--;
+            if (index<Count)
+            {
+                Array.Copy(InnerList, index + 1, InnerList, index, Count - index);
+               
+            }
+            InnerList[Count] = default;
+
         }
     }
 }

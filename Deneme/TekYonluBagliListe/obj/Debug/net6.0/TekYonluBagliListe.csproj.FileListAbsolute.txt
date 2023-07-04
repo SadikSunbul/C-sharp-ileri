@@ -1,0 +1,15 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\bin\Debug\net6.0\TekYonluBagliListe.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\bin\Debug\net6.0\TekYonluBagliListe.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\bin\Debug\net6.0\TekYonluBagliListe.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\bin\Debug\net6.0\TekYonluBagliListe.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\bin\Debug\net6.0\TekYonluBagliListe.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\obj\Debug\net6.0\TekYonluBagliListe.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\obj\Debug\net6.0\TekYonluBagliListe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\obj\Debug\net6.0\TekYonluBagliListe.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\obj\Debug\net6.0\TekYonluBagliListe.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\obj\Debug\net6.0\TekYonluBagliListe.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\obj\Debug\net6.0\TekYonluBagliListe.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\obj\Debug\net6.0\refint\TekYonluBagliListe.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\obj\Debug\net6.0\TekYonluBagliListe.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\obj\Debug\net6.0\TekYonluBagliListe.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TekYonluBagliListe\obj\Debug\net6.0\ref\TekYonluBagliListe.dll
