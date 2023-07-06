@@ -1,0 +1,15 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\obj\Debug\net6.0\TTopluKuyrukYapısı.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\obj\Debug\net6.0\TTopluKuyrukYapısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\obj\Debug\net6.0\TTopluKuyrukYapısı.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\obj\Debug\net6.0\TTopluKuyrukYapısı.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\obj\Debug\net6.0\TTopluKuyrukYapısı.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\bin\Debug\net6.0\TTopluKuyrukYapısı.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\bin\Debug\net6.0\TTopluKuyrukYapısı.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\bin\Debug\net6.0\TTopluKuyrukYapısı.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\bin\Debug\net6.0\TTopluKuyrukYapısı.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\bin\Debug\net6.0\TTopluKuyrukYapısı.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\obj\Debug\net6.0\TTopluKuyrukYapısı.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\obj\Debug\net6.0\refint\TTopluKuyrukYapısı.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\obj\Debug\net6.0\TTopluKuyrukYapısı.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\obj\Debug\net6.0\TTopluKuyrukYapısı.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\TTopluKuyrukYapısı\obj\Debug\net6.0\ref\TTopluKuyrukYapısı.dll

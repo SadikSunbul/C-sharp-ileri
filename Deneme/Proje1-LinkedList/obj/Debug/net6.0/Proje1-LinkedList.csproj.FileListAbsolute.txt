@@ -1,0 +1,15 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\bin\Debug\net6.0\Proje1-LinkedList.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\bin\Debug\net6.0\Proje1-LinkedList.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\bin\Debug\net6.0\Proje1-LinkedList.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\bin\Debug\net6.0\Proje1-LinkedList.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\bin\Debug\net6.0\Proje1-LinkedList.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\obj\Debug\net6.0\Proje1-LinkedList.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\obj\Debug\net6.0\Proje1-LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\obj\Debug\net6.0\Proje1-LinkedList.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\obj\Debug\net6.0\Proje1-LinkedList.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\obj\Debug\net6.0\Proje1-LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\obj\Debug\net6.0\Proje1-LinkedList.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\obj\Debug\net6.0\refint\Proje1-LinkedList.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\obj\Debug\net6.0\Proje1-LinkedList.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\obj\Debug\net6.0\Proje1-LinkedList.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Deneme\Proje1-LinkedList\obj\Debug\net6.0\ref\Proje1-LinkedList.dll
