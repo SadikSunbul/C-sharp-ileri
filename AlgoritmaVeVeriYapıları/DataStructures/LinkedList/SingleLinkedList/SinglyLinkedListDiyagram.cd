@@ -10,9 +10,10 @@
   <Class Name="DataStructures.LinkedList.SingleLinkedList.SingleLinkedList&lt;T&gt;">
     <Position X="4.25" Y="0.75" Width="3" />
     <TypeIdentifier>
-      <HashCode>AACAABAAAAAAAIAAAAAAIAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AACAABAAAAAAAJAAAAAAIAAIAAAAAAAEAAAAAAAAAAA=</HashCode>
       <FileName>LinkedList\SingleLinkedList\SingleLinkedList.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

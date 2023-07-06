@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "07-DoubleLinkedList/1.0.0": {
+        "dependencies": {
+          "DataStructures": "1.0.0"
+        },
+        "runtime": {
+          "07-DoubleLinkedList.dll": {}
+        }
+      },
+      "DataStructures/1.0.0": {
+        "runtime": {
+          "DataStructures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07-DoubleLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataStructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

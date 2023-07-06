@@ -52,8 +52,17 @@ linkedList.AddBefore(linkedList.Head.Next,55);
 var data1 = new SinglyLinkedListNode<int>(66);
 linkedList.AddBefore(linkedList.Head.Next,data1);
 // 3 66 55 2 99 1 4 5 6 
+
+foreach (var item in linkedList)
+{
+    Console.WriteLine(item);
+}
+
 Console.WriteLine(linkedList.Head.Next.Next);
 Console.ReadKey();
+
+//Buradaki işlemler DataStructures/LinkedList/SingleLinkedList içerisinde
+
 #endregion
 
 #endregion

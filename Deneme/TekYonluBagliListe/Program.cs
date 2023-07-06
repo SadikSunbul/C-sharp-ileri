@@ -9,4 +9,9 @@ listyem.AddFirst(2);
 listyem.AddFirst(3);
 listyem.AddFirst(4);
 
+foreach (var x in listyem )
+{
+    Console.WriteLine(x);
+}
+
 Console.ReadKey();

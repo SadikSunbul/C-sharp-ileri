@@ -141,11 +141,7 @@ namespace Deneme
 
         public bool Remove(T item)
         {
-            int index= Array.IndexOf(InnerList, item);
-            if (index>=0)
-            {
-                
-            }
+            throw new NotImplementedException();
         }
 
         public void RemoveAt(int index)
