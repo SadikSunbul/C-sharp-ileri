@@ -18,6 +18,7 @@ namespace DataStructures.Array
         {
             InnerList = new T[2];
             Count = 0;
+            
         }
 
         public Array(params T[] initial)
@@ -97,12 +98,40 @@ namespace DataStructures.Array
 
         public int Capasity => InnerList.Length;
 
-        public object Clone() //bunu kullanırken cast etmelıyız foreach ıcın degılse hata alırız burası sığ (shalow) kopyalama yapar referans etmez
+        public object Clone() 
         {
-            // return this.MemberwiseClone(); //sıg kopyalama
+            // return this.MemberwiseClone(); 
+
+            /*
+             Shallow copy: Referans aktarımıdır , yani  A nin referansını B ye aktarırsınız B dekı degısıklık A yı etkıler
+             Deep copy: normal degıskenlerın kopyalanmasıdır verıu artısı olur burada int a=5; int b=a; dersek burada verı artısı olur 
+
+            şimdi burada this.MemberwiseClone(); metodu Shallow veyahutta deep copy diyemeyiz çünkü kullanıldıgı yere bakmak gerekir
+            this.MemberwiseClone(); Çalışma mantığı :bunu kullandıgımız sınıfata bır referans tutabılecek bır degısken va ıse burası yenı bır nesne uretır lakin oradaki referans degerlerini refere eder modelliyelim
+
+            A clası[
+            int a;
+            string b;
+            Myclas cls;
+            
+            clone()
+            {
+            return this.MemberwiseClone();
+            }
+
+            ]
+
+            A a= new ();
+            A b=a.clone();
+
+            burada a ile b ayrı nesnelerdir ama içerisindeki cls lerin referans ettıkelrı yerler aynıdır yanı burada Shallow copy yapılmıstır ama burada yenı bır nesen olusturul dugu ıcın de deep copy yapılmıstır yanı a.b="sadık"; dersem b.b degerı degısmez ama a.cls.deger="safasg" yaparsam b.cls.deger de degismis olur
+
+             */
 
             //Manuel olarak yaptık buarada
-            var arr = new Array<T>();
+            var arr = new Array<T>(); 
+            
+            
             foreach (var item in this)
             {
                 arr.Add(item);

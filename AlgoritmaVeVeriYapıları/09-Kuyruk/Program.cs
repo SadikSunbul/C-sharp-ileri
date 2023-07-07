@@ -19,7 +19,7 @@ using DataStructures._Kuyruk;
 
 var numbers = new int[] { 1, 2, 3, 4 };
 
-
+List
 var q1 = new Kuyruk<int>();
 var q2 = new Kuyruk<int>(KuyrukType.LinkedList);
 
@@ -42,6 +42,8 @@ Console.WriteLine($"q2 count:{q2.count}");
 
 Console.WriteLine($"q1 Peek:{q1.Peek()}");
 Console.WriteLine($"q2 Peek:{q2.Peek()}");
+
+
 
 Console.WriteLine("");
 
