@@ -97,7 +97,7 @@ namespace DataStructures.Array
 
         public int Capasity => InnerList.Length;
 
-        public object Clone() //bunu kullanırken cast etmelıyız foreach ıcın degılse hata alırız burası sıg (shallow) kopyalama yapar referans etmez
+        public object Clone() //bunu kullanırken cast etmelıyız foreach ıcın degılse hata alırız burası derin (deep) kopyalama yapar referans etmez
         {
             // return this.MemberwiseClone(); //sıg kopyalama
 
