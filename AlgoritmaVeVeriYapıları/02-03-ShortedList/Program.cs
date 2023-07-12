@@ -2,7 +2,7 @@
 
 using System.Collections;
 
-SortedList sortedl = new SortedList(); //kendi kendini sıralıyor ...( kendı yorumum ıd ataması ıcın guzel olabılır)
+SortedList sortedl = new SortedList(); //kendi kendini sıralıyor ...
                                        //hashtable ıle aynı metotları var
 
 sortedl.Add(100, "yüz");

@@ -1,0 +1,12 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructure-Ağaç\bin\Debug\net6.0\DataStructure-Ağaç.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructure-Ağaç\bin\Debug\net6.0\DataStructure-Ağaç.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructure-Ağaç\bin\Debug\net6.0\DataStructure-Ağaç.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructure-Ağaç\obj\Debug\net6.0\DataStructure-Ağaç.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructure-Ağaç\obj\Debug\net6.0\DataStructure-Ağaç.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructure-Ağaç\obj\Debug\net6.0\DataStructure-Ağaç.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructure-Ağaç\obj\Debug\net6.0\DataStructure-Ağaç.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructure-Ağaç\obj\Debug\net6.0\DataStructure-Ağaç.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructure-Ağaç\obj\Debug\net6.0\DataStructure-Ağaç.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructure-Ağaç\obj\Debug\net6.0\refint\DataStructure-Ağaç.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructure-Ağaç\obj\Debug\net6.0\DataStructure-Ağaç.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\AlgoritmaVeVeriYapıları\DataStructure-Ağaç\obj\Debug\net6.0\ref\DataStructure-Ağaç.dll

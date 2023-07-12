@@ -210,7 +210,7 @@ namespace DataStructures.LinkedList.SingleLinkedList
             }
 
             var current = Head;
-            SinglyLinkedListNode<T> prev = null;
+            SinglyLinkedListNode<T> prev = null; //bır önceki 
 
             do
             {
