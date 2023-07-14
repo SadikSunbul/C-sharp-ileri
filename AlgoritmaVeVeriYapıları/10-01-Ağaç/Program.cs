@@ -20,12 +20,25 @@ a.Add(99);
 //    Console.WriteLine(item);
 //}
 var bt=new BinaryTree<int>();
+bt.Root = a.Root;
 
-bt.InOrder(a.Root)
-    .ForEach(n => Console.Write($"{n,-3}"));
+
+
 Console.WriteLine();
+//Console.WriteLine(a.FindMax(a.Root));
+//Console.WriteLine(a.FindMin(a.Root));
+//Console.WriteLine(a.Find(a.Root,37));
+//a.Remove(a.Root, 37);
+//bt.InOrder(a.Root).ForEach(i=>Console.Write($"{i,-3}"));
+//Console.WriteLine("");
+//Console.WriteLine(BinaryTree<int>.MaxDepth(a.Root)) ;
+//Console.WriteLine(BinaryTree<int>.DeepestNode(a.Root).Value) ;
+//Console.WriteLine(bt.DeepestNode()) ;
+//Console.WriteLine(bt.NumberOfLeadfs(a.Root));
+bt.PrintPaths(a.Root);
 
-bt.InOrderNonRecursiveTraversal(a.Root)
-    .ForEach(n=>Console.Write($"{n,-3}"));
-
+foreach (var item in a)
+{
+    Console.WriteLine(item);
+}
 Console.WriteLine();

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -25,11 +26,11 @@ namespace DataStructure_Ağaç.Tree.BinarySearchTree
         }
         public IEnumerator<T> GetEnumerator()
         {
-            throw new NotImplementedException();
+            return new BSTEnumerator<T>(Root);
         }
         IEnumerator IEnumerable.GetEnumerator()
         {
-            throw new NotImplementedException();
+            return GetEnumerator();
         }
         public void Add(T value)
         {
@@ -80,6 +81,81 @@ namespace DataStructure_Ağaç.Tree.BinarySearchTree
                 }
             }
         }
+        public Node<T> FindMin(Node<T> root)
+        {
+            var current = root;
+            while (current.Left != null)
+            {
+                current = current.Left;
+            }
+            return current;
+        }
+        public Node<T> FindMax(Node<T> root)
+        {
+            var current = root;
+            while (current.Right != null)
+            {
+                current = current.Right;
+            }
+            return current;
+        }
+        public Node<T> Find(Node<T> root, T key)
+        {
+            var current = root;
+            while (key.CompareTo(current.Value) != 0) //eşit değil ise gir
+            {
+                if (key.CompareTo(current.Value) < 0)//-1 küçük
+                {
+                    current = current.Left;
+                }
+                else if (key.CompareTo(current.Value) > 0)
+                {
+                    current = current.Right;
+                }
+                if (current == null)
+                {
+                    return default(Node<T>);
+                }
+            }
+            return current;
+        }
+
+        public Node<T> Remove(Node<T> root, T key)
+        {
+            if (root==null)
+            {
+                return root;
+            }
+
+            //rekürsif ilerliycez
+            if(key.CompareTo(root.Value) < 0)
+            {
+                root.Left=Remove(root.Left, key);
+            }
+            else if (key.CompareTo(root.Value)>0) //sagtaraftan devam etcez
+            {
+                root.Right = Remove(root.Right, key);
+            }
+            else
+            {
+                //silme işlevi uygulanmalıdır burada eşitlik var burada 
+                //Tek cocuklu yada cocuksuz 
+                if (root.Left==null)
+                {
+                    return root.Right;
+                }
+                else if (root.Right==null)
+                {
+                    return root.Left;
+                }
+                //iki çocuk
+                root.Value = FindMin(root.Right).Value;
+                root.Right=Remove(root.Right, root.Value);
+            }
+            return root;
+        }
+
+       
 
     }
 }
