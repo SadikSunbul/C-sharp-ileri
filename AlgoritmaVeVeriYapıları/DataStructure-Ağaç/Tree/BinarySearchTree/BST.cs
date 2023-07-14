@@ -84,7 +84,7 @@ namespace DataStructure_Ağaç.Tree.BinarySearchTree
         public Node<T> FindMin(Node<T> root)
         {
             var current = root;
-            while (current.Left != null)
+            while (current.Left != null) //hep sol sol gıdıyoruz cunkı mın deger en soldakı degerdır
             {
                 current = current.Left;
             }
@@ -93,7 +93,7 @@ namespace DataStructure_Ağaç.Tree.BinarySearchTree
         public Node<T> FindMax(Node<T> root)
         {
             var current = root;
-            while (current.Right != null)
+            while (current.Right != null)//hep sag sag gıdıyoruz cunkı max deger en sagdakı degerdır
             {
                 current = current.Right;
             }
@@ -104,15 +104,15 @@ namespace DataStructure_Ağaç.Tree.BinarySearchTree
             var current = root;
             while (key.CompareTo(current.Value) != 0) //eşit değil ise gir
             {
-                if (key.CompareTo(current.Value) < 0)//-1 küçük
+                if (key.CompareTo(current.Value) < 0)//-1 küçük deger kucuk ıse sola gıdıcez
                 {
                     current = current.Left;
                 }
-                else if (key.CompareTo(current.Value) > 0)
+                else if (key.CompareTo(current.Value) > 0) //deger buyuk ıse saga gıdıcez
                 {
                     current = current.Right;
                 }
-                if (current == null)
+                if (current == null) 
                 {
                     return default(Node<T>);
                 }
@@ -128,29 +128,29 @@ namespace DataStructure_Ağaç.Tree.BinarySearchTree
             }
 
             //rekürsif ilerliycez
-            if(key.CompareTo(root.Value) < 0)
+            if(key.CompareTo(root.Value) < 0) //deger kucuk ıse sol tarafı kok olarak verıcez yanı kok degıscek 
             {
-                root.Left=Remove(root.Left, key);
+                root.Left=Remove(root.Left, key); //sol tarafa kaydık 
             }
-            else if (key.CompareTo(root.Value)>0) //sagtaraftan devam etcez
+            else if (key.CompareTo(root.Value)>0) //deger buyuk ıse sag tarafı kok olarak verıcez yanı kok degıscek 
             {
-                root.Right = Remove(root.Right, key);
+                root.Right = Remove(root.Right, key); //sag tarafa kaydık 
             }
             else
             {
                 //silme işlevi uygulanmalıdır burada eşitlik var burada 
                 //Tek cocuklu yada cocuksuz 
-                if (root.Left==null)
+                if (root.Left==null) //kokun solu yok ıse 
                 {
-                    return root.Right;
+                    return root.Right; //sagı dondür
                 }
-                else if (root.Right==null)
+                else if (root.Right==null) //sagı yok ıse 
                 {
-                    return root.Left;
+                    return root.Left; //solu dondür
                 }
-                //iki çocuk
-                root.Value = FindMin(root.Right).Value;
-                root.Right=Remove(root.Right, root.Value);
+                //silinen elemanın iki çocugu var ıse
+                root.Value = FindMin(root.Right).Value; //sılınen elemanın degerı degıstırıcez sılınenın sag tarafının mın degerını aldık 
+                root.Right=Remove(root.Right, root.Value); //sılınene elemanın degerı degıstı zaten ama 2 tane aynı degerden olmus oldu suan onun ıcın sılınen kokun sagtarafına sılme işlemi birdaha uygulanır bu boyle devam eder ta ki tek cocku yada cocuksuz oluncaya kadar ustekılere gırınce sılme ıslemı tamamlanmıs oluyor 
             }
             return root;
         }
