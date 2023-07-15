@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.5.OOPDers", "2.5.OOPDers\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.6.OOPDerss", "2.6.OOPDerss\2.6.OOPDerss.csproj", "{6BF21CA6-1A25-45E8-8A1D-2883EBA771B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme", "Deneme\Deneme.csproj", "{3ED339D8-D612-46FA-ADE4-724B1A23293A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deneme", "Deneme\Deneme.csproj", "{3ED339D8-D612-46FA-ADE4-724B1A23293A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.7.OOPDers", "2.7.OOPDers\2.7.OOPDers.csproj", "{8D42935A-0186-4357-B9D5-BB8AFEB7AEE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{3ED339D8-D612-46FA-ADE4-724B1A23293A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ED339D8-D612-46FA-ADE4-724B1A23293A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ED339D8-D612-46FA-ADE4-724B1A23293A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D42935A-0186-4357-B9D5-BB8AFEB7AEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D42935A-0186-4357-B9D5-BB8AFEB7AEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D42935A-0186-4357-B9D5-BB8AFEB7AEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D42935A-0186-4357-B9D5-BB8AFEB7AEE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
