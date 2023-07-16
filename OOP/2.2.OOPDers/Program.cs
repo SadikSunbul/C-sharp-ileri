@@ -44,6 +44,7 @@ oluyoruz.
     class X
     {
         public virtual void A() { Console.WriteLine("x"); }
+        
     }
     class Y : X
     {

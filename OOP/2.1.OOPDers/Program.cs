@@ -118,14 +118,6 @@ namespace _2._1.OOPDers
     }
 
     can-do ilişkisi --> sonrakı derslerde gorecegımız ınterface yapılanmasının getirisi olna ilşki türüdür
-    Tabi ki can — ih*ishti utlayat*hnek için hterfaco yap.lanmw hakkımla fikir ohjmnasg
-Kısxa intetface; bir sınıfın İmzasıdır. Yani bir sınıfın içerisinde olcak olan tün” momt»r1Mtn
-pblcmımu/arayuzüno ohjşturduoumuz bir kontrattır. Herharo bir htorfaco'i uygulayan o int«face
-*orismth tammlanmış mornt»r imzalanm kendisinde ohişturmak Aksi taktirde «xn*r hata
-ver«ektir. Velhasıl tthn bunlan a'dan z'ye ihih konuya ait dersinizde tan teferruatlı in•lorniş olacaoız.
-
-    Interface'hr içlerü"daki memt»rlann ünzalxım classlara uygulattırdığımla' o interfaceler dgdi
-kabihyothri
     Yani can-do ilişkisi bir nesnenin davranışlarının kabiliyetlerinin belirtmektedir
 
      */

@@ -1,22 +1,12 @@
 ﻿
 
+
 using AmazonMulakatSorusu;
 
-Trie trie = new Trie();
+Work work = new Work();
 
-trie.Add("Ali");
-trie.Add("Alp");
-trie.Add("Sadık");
-trie.Add("Sadık");
-trie.Add("Safa");
+var data=work.YasaklıKelimeTesti("Herkese selam nasılsınız mal lar nabel salak okuz");
 
 
-
-
-trie.Remove("Sadık");
-
-Console.WriteLine(trie.ContainsWord("Sadık"));
-Console.WriteLine(trie.ContainsWord("Safa"));
-
-trie.Print();
+Console.WriteLine(data);
 Console.WriteLine();

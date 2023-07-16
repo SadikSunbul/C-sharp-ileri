@@ -52,7 +52,7 @@ namespace _1._6.OOPDers
 
     class MyClass
     {
-        readonly int a; //buna degerı ya ctor da yada nuradan deger atanabılır yada propertysını ınıt yaparsın initializers ederken atarsın 
+        readonly int a; //buna degerı ya ctor da yada buradan deger atanabılır yada propertysını ınıt yaparsın initializers ederken atarsın 
         public int A { get => a; init => a = value; }
 
         public int MyProperty { get; } = 10;//readonly nerde de deger atıyabılrız --> ctor veya burada default oalarak verılebılır 
@@ -61,7 +61,7 @@ namespace _1._6.OOPDers
     #endregion
 
     #region Records Nedir?
-    //C#Y.O ile gelen Init-OnIy Properties özelliği, nesne üretim esnasının dışında değişmez değerleroluşturulması İçin constructor ve auto property İnitializers yapısının yanında Object İnitializer yapısının kullanılabilir olmasını sağlıyordu.
+    //C#7.O ile gelen Init-OnIy Properties özelliği, nesne üretim esnasının dışında değişmez değerleroluşturulması İçin constructor ve auto property İnitializers yapısının yanında Object İnitializer yapısının kullanılabilir olmasını sağlıyordu.
 
     //Eğerki bir objeyi bütünsel olarak değişmez yapmak ıstıyorısek o zaman daha fazlasına ıhtıyacımız olacaktır işte bu ihtiyaca istinaden record türü geliştirilmiştir
 
