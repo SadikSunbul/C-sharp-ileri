@@ -111,7 +111,7 @@ class MyClass4 : IExample
 
 #endregion
 #region Default implemantasyon Kullanım için en guzel senaryo
-// Diyelimki koklü bir şirketin yazılım geliştiricisi olarak çalışıyor sunuz ve yeni bişeyler ekliyorsunuz ister istemez interfacelere dokunmak mecburıyetındesızız bu interface cok fazla ımplemanent edıldı ıse oradakı kucuk bır degısıklık her yerde hata fırlatıcaktır onları halletmek ıle ugrasıtırcaktır bunun yerıen yenı ekliycegımız ımzayı default olarak eklerız sadece yenı metotdumuza ekliyebiliriz ve hatalardan buuk olcude kurtulmus oluruz 
+// Diyelimki koklü bir şirketin yazılım geliştiricisi olarak çalışıyor sunuz ve yeni bişeyler ekliyorsunuz ister istemez interfacelere dokunmak mecburıyetındesızız bu interface cok fazla ımplemanent edıldı ıse oradakı kucuk bır degısıklık her yerde hata fırlatıcaktır onları halletmek ıle ugrasıtırcaktır bunun yerıen yenı ekliycegımız ımzayı default olarak eklerız sadece yenı metotdumuza ekliyebiliriz ve hatalardan buyuk olcude kurtulmus oluruz 
 #endregion
 
 //Interfaceler ısaretleme amaclı kullanılabılırler 
