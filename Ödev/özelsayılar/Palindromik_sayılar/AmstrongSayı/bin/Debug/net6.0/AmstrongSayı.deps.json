@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AmstrongSayı/1.0.0": {
+        "runtime": {
+          "AmstrongSayı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AmstrongSayı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

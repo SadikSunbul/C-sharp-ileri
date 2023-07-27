@@ -1,0 +1,5 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\CsharpiçinDetayBilgiler\1.3.Ders4\obj\Debug\net6.0\1.3.Ders4.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\CsharpiçinDetayBilgiler\1.3.Ders4\obj\Debug\net6.0\1.3.Ders4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\CsharpiçinDetayBilgiler\1.3.Ders4\obj\Debug\net6.0\1.3.Ders4.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\CsharpiçinDetayBilgiler\1.3.Ders4\obj\Debug\net6.0\1.3.Ders4.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\CsharpiçinDetayBilgiler\1.3.Ders4\obj\Debug\net6.0\1.3.Ders4.csproj.CoreCompileInputs.cache

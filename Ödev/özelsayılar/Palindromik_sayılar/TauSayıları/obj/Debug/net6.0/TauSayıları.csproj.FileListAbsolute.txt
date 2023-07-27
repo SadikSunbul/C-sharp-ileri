@@ -1,0 +1,15 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\bin\Debug\net6.0\TauSayıları.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\bin\Debug\net6.0\TauSayıları.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\bin\Debug\net6.0\TauSayıları.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\bin\Debug\net6.0\TauSayıları.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\bin\Debug\net6.0\TauSayıları.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\obj\Debug\net6.0\TauSayıları.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\obj\Debug\net6.0\TauSayıları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\obj\Debug\net6.0\TauSayıları.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\obj\Debug\net6.0\TauSayıları.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\obj\Debug\net6.0\TauSayıları.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\obj\Debug\net6.0\TauSayıları.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\obj\Debug\net6.0\refint\TauSayıları.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\obj\Debug\net6.0\TauSayıları.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\obj\Debug\net6.0\TauSayıları.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\TauSayıları\obj\Debug\net6.0\ref\TauSayıları.dll

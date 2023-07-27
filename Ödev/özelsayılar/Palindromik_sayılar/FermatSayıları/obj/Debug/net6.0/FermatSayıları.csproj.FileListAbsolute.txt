@@ -1,0 +1,15 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\bin\Debug\net6.0\FermatSayıları.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\bin\Debug\net6.0\FermatSayıları.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\bin\Debug\net6.0\FermatSayıları.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\bin\Debug\net6.0\FermatSayıları.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\bin\Debug\net6.0\FermatSayıları.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\obj\Debug\net6.0\FermatSayıları.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\obj\Debug\net6.0\FermatSayıları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\obj\Debug\net6.0\FermatSayıları.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\obj\Debug\net6.0\FermatSayıları.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\obj\Debug\net6.0\FermatSayıları.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\obj\Debug\net6.0\FermatSayıları.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\obj\Debug\net6.0\refint\FermatSayıları.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\obj\Debug\net6.0\FermatSayıları.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\obj\Debug\net6.0\FermatSayıları.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\özelsayılar\Palindromik_sayılar\FermatSayıları\obj\Debug\net6.0\ref\FermatSayıları.dll
