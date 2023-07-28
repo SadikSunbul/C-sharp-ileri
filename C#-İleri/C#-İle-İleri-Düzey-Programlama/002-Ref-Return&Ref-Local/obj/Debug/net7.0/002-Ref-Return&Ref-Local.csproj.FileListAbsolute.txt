@@ -1,0 +1,15 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\bin\Debug\net7.0\002-Ref-Return&Ref-Local.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\bin\Debug\net7.0\002-Ref-Return&Ref-Local.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\bin\Debug\net7.0\002-Ref-Return&Ref-Local.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\bin\Debug\net7.0\002-Ref-Return&Ref-Local.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\bin\Debug\net7.0\002-Ref-Return&Ref-Local.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\obj\Debug\net7.0\002-Ref-Return&Ref-Local.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\obj\Debug\net7.0\002-Ref-Return&Ref-Local.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\obj\Debug\net7.0\002-Ref-Return&Ref-Local.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\obj\Debug\net7.0\002-Ref-Return&Ref-Local.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\obj\Debug\net7.0\002-Ref-Return&Ref-Local.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\obj\Debug\net7.0\002-Ref-Return&Ref-Local.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\obj\Debug\net7.0\refint\002-Ref-Return&Ref-Local.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\obj\Debug\net7.0\002-Ref-Return&Ref-Local.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\obj\Debug\net7.0\002-Ref-Return&Ref-Local.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\002-Ref-Return&Ref-Local\obj\Debug\net7.0\ref\002-Ref-Return&Ref-Local.dll

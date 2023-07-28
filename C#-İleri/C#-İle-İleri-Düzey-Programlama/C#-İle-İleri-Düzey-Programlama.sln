@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-DizilereDerinlemesineBakış", "001-DizilereDerinlemesineBakış\001-DizilereDerinlemesineBakış.csproj", "{585A3A5A-42AE-4DDA-91D7-1207AB0B48DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-Ref-Return&Ref-Local", "002-Ref-Return&Ref-Local\002-Ref-Return&Ref-Local.csproj", "{A48A198F-4892-4032-82F6-014EDC27678C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{585A3A5A-42AE-4DDA-91D7-1207AB0B48DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{585A3A5A-42AE-4DDA-91D7-1207AB0B48DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{585A3A5A-42AE-4DDA-91D7-1207AB0B48DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48A198F-4892-4032-82F6-014EDC27678C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48A198F-4892-4032-82F6-014EDC27678C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48A198F-4892-4032-82F6-014EDC27678C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48A198F-4892-4032-82F6-014EDC27678C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
