@@ -11,8 +11,8 @@ namespace Proje.Application.Features.Cars.Queries.GetList
     public class GetListCaQueryDto
     {
         public Guid Id { get; set; }
-        public string CarMarka { get; set; }
-        public string CarModel { get; set; }
+        public string Marka { get; set; }
+        public string Model { get; set; }
     }
 
 }

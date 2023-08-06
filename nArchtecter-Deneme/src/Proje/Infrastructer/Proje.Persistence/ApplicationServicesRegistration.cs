@@ -18,7 +18,7 @@ public static class ApplicationServicesRegistration
         this IServiceCollection services,
         IConfiguration configuration)
     {
-        services.AddDbContext<BaseContext>(config => config.UseInMemoryDatabase("nArchtecture"));
+        //services.AddDbContext<BaseContext>(config => config.UseInMemoryDatabase("nArchtecture"));
 
         services.AddDbContext<BaseContext>(cof => cof.UseSqlServer(configuration.GetConnectionString("mssql"))); 
         services.AddScoped<ICarRepository, CarRepositories>();

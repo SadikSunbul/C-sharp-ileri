@@ -10,3 +10,15 @@ C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\obj\D
 C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\obj\Debug\net7.0\refint\Proje.Domain.dll
 C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\obj\Debug\net7.0\Proje.Domain.pdb
 C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\obj\Debug\net7.0\ref\Proje.Domain.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\bin\Debug\net7.0\Proje.Domain.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\bin\Debug\net7.0\Proje.Domain.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\bin\Debug\net7.0\Proje.Domain.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\obj\Debug\net7.0\Proje.Domain.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\obj\Debug\net7.0\Proje.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\obj\Debug\net7.0\Proje.Domain.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\obj\Debug\net7.0\Proje.Domain.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\obj\Debug\net7.0\Proje.Domain.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\obj\Debug\net7.0\Proje.Domain.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\obj\Debug\net7.0\refint\Proje.Domain.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\obj\Debug\net7.0\Proje.Domain.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Core\Proje.Domain\obj\Debug\net7.0\ref\Proje.Domain.dll

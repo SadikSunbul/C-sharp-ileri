@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 
 namespace Proje.Application.Features.Cars.Queries.GetById;
 
-public class GetDynamicListCarHandler : IRequestHandler<GetDynamicListCarRequest, GetDynamicListCarRespons>
+public class GetDynamicListCarHandler : IRequestHandler<GetDynamicListCarRequest, GetListRespons<GetDynamicListCarDto>>
 {
     private readonly IMapper mapper;
     private readonly ICarRepository carRepository;
@@ -27,7 +27,7 @@ public class GetDynamicListCarHandler : IRequestHandler<GetDynamicListCarRequest
 
     
 
-    async Task<GetDynamicListCarRespons> IRequestHandler<GetDynamicListCarRequest, GetDynamicListCarRespons>.Handle(GetDynamicListCarRequest request, CancellationToken cancellationToken)
+    async Task<GetListRespons<GetDynamicListCarDto>> IRequestHandler<GetDynamicListCarRequest, GetListRespons<GetDynamicListCarDto>>.Handle(GetDynamicListCarRequest request, CancellationToken cancellationToken)
     {
         Paginate<Car>? pageCar = await carRepository.GetListByDynamic(
            dynamic: request.dynamicQuery,
@@ -37,7 +37,7 @@ public class GetDynamicListCarHandler : IRequestHandler<GetDynamicListCarRequest
 
 
 
-        GetDynamicListCarRespons respons = mapper.Map<GetDynamicListCarRespons>(pageCar);
+        GetListRespons<GetDynamicListCarDto> respons = mapper.Map<GetListRespons<GetDynamicListCarDto>>(pageCar);
         return respons;
     }
 }

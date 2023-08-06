@@ -32,15 +32,17 @@ namespace Proje.Application.Features.Cars.Profiles
 
 
 
-            CreateMap<GetDynamicListCarRespons, Car>().ReverseMap();
-            CreateMap<GetDynamicListCarRespons, PagedResult<Car>>().ReverseMap();
+            CreateMap<GetDynamicListCarDto, Car>().ReverseMap();
+            CreateMap<GetDynamicListCarDto, PagedResult<Car>>().ReverseMap();
+
 
             CreateMap<GetListRespons<GetListCaQueryDto>, Paginate<Car>>().ReverseMap();
+            CreateMap<GetListRespons<GetDynamicListCarDto>, Paginate<Car>>().ReverseMap();
 
-            
 
 
-            CreateMap<GetListCaQueryRespons, Paginate<Car>>().ReverseMap();
+
+
 
         }
 

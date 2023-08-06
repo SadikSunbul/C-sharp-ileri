@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace Proje.Application.Features.Cars.Queries.GetById;
 
-public class GetDynamicListCarRequest : IRequest<GetDynamicListCarRespons>
+public class GetDynamicListCarRequest : IRequest<GetListRespons<GetDynamicListCarDto>>
 {
     public PageRequest PageRequest { get; set; }
     public DynamicQuery dynamicQuery { get; set; }

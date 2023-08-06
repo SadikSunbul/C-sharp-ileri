@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace Proje.Application.Features.Cars.Queries.GetList
 {
-    public class GetListCaQueryHandler : IRequestHandler<GetListCaQueryRequest, GetListCaQueryRespons>
+    public class GetListCaQueryHandler : IRequestHandler<GetListCaQueryRequest, GetListRespons<GetListCaQueryDto>>
     {
         private readonly IMapper mapper;
         private readonly ICarRepository carRepository;
@@ -24,11 +24,11 @@ namespace Proje.Application.Features.Cars.Queries.GetList
             this.carRepository = carRepository;
         }
 
-        public async Task<GetListCaQueryRespons> Handle(GetListCaQueryRequest request, CancellationToken cancellationToken)
+        public async Task<GetListRespons<GetListCaQueryDto>> Handle(GetListCaQueryRequest request, CancellationToken cancellationToken)
         {
-            Paginate<Car> data = await carRepository.GetListAsync(index: request.PageRequest.PageIndex, size: request.PageRequest.PageSize, cancellationToken: cancellationToken);
+            Paginate<Car>? data = await carRepository.GetListAsync(index: request.PageRequest.PageIndex, size: request.PageRequest.PageSize, cancellationToken: cancellationToken);
 
-            GetListCaQueryRespons respons = mapper.Map<GetListCaQueryRespons>(data);
+            GetListRespons<GetListCaQueryDto> respons = mapper.Map<GetListRespons<GetListCaQueryDto>>(data);
             return respons;
         }
 
