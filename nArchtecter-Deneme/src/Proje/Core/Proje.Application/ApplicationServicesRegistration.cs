@@ -1,5 +1,7 @@
 ﻿using Cor.CrossCuttingConcerns.Rules;
+using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
+using Proje.Application.PipeLines.Validation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,11 +18,16 @@ public static class ApplicationServicesRegistration
         services.AddMediatR(opt =>
         {
             opt.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly());
+
+            opt.AddOpenBehavior(typeof(RequestValidaterBehavior<,>));
         });
 
         services.AddSubClassesOfType(Assembly.GetExecutingAssembly(), typeof(BaseBusinessRules));
 
         services.AddAutoMapper(Assembly.GetExecutingAssembly());
+
+        services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());    
+        
 
         return services;
     }

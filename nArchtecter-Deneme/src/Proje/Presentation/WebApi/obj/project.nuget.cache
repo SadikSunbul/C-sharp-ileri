@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YOLEpLda4V7SSJByyMA/94CZkYgwIuCbNih8mUym9p1C3wKSDJlEt4Tx3Afb7Hf4qTGwVQOs13nxTirhwZxYAw==",
+  "dgSpecHash": "8+FuaKydCH38cz4yg2HsTa1LF2gDBIQ5SCCuaXbN5mJCJGQjVpV6/B4edEtyBaoR6ReBPwefWtonVrVm1vCROQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\nArchtecter-Deneme\\src\\Proje\\Presentation\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\artredline\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

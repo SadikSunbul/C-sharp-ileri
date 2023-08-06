@@ -23,7 +23,7 @@ public class ExceptionMidlerware
     {
         try
         {
-            await _next(context);
+            await _next(context); //apıden gelen ıstegı calıstır
         }
         catch (Exception ex)
         {

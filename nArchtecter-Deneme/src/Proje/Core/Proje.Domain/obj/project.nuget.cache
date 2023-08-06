@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3dsGFoNZ2f5trBKLFSDyKj9dvJNq0R1CYas/7YdDE7p53vPFkO5/YD3YWRl7+yvKU+zvGC7Xx/w6EabVXiSxHQ==",
+  "dgSpecHash": "wKRYeFp00zg1IKiA5BKGK32C1Fs5M77VVZvnHx0prIQDAVDpvncTogaQx4h6ENX/4RFXNfY26H1eaDzMgnVwlw==",
   "success": true,
   "projectFilePath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\nArchtecter-Deneme\\src\\Proje\\Core\\Proje.Domain\\Proje.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\artredline\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",

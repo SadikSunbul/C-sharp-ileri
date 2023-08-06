@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8K632UUD3TSPBDK6f7i4w2npTl1j7R5798sYrw9eEETeSiXh9Spv0gwymsTLd1Ux7MaBH+IoavRGf5VsEQKfaw==",
+  "dgSpecHash": "z8pei+yoOlJLVQD5VYSxm4uBGowcWRDRwC5pt/dS5PormCMex9/6BYXvsVm7AX8Xb3RbYo155IqdM9k5pmvPvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\nArchtecter-Deneme\\src\\Proje\\Infrastructer\\Proje.Infrastructer\\Proje.Infrastructer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\artredline\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

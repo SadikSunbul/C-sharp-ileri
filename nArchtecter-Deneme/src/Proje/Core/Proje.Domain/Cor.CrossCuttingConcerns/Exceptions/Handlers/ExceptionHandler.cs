@@ -1,6 +1,8 @@
 ﻿using Cor.CrossCuttingConcerns.Exceptions.Types;
+using Proje.Domain.Cor.CrossCuttingConcerns.Exceptions.Type;
 using System;
 using System.Collections.Generic;
+
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,9 +17,11 @@ public abstract class ExceptionHandler
         exception switch
         { //gelen hatanın turune gore handler etme uygulıycaz
             BusinessException businessException => HandlerException(businessException),
+            ValidationException businessException => HandlerException(businessException),
             _ => HandlerException(exception)
         };
 
     protected abstract Task HandlerException(BusinessException businessException); //basına abstrac yazmamızın sebebi kalıtım alan adam bunu doldursun 
     protected abstract Task HandlerException(Exception exception);
+    protected abstract Task HandlerException(ValidationException exception);
 }

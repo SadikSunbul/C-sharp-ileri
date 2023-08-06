@@ -173,3 +173,5 @@ C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Prese
 C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll

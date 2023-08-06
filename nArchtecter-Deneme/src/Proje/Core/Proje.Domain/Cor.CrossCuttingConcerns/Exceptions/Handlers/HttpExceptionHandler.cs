@@ -1,12 +1,16 @@
 ﻿using Cor.CrossCuttingConcerns.Exceptions.Types;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using Proje.Domain.Cor.CrossCuttingConcerns.Exceptions.Extenrions;
 using Proje.Domain.Cor.CrossCuttingConcerns.Exceptions.HttpProblemDetails;
+using Proje.Domain.Cor.CrossCuttingConcerns.Exceptions.Type;
 using System;
 using System.Collections.Generic;
+
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ValidationProblemDetails = Proje.Domain.Cor.CrossCuttingConcerns.Exceptions.HttpProblemDetails.ValidationProblemDetails;
 
 namespace Proje.Domain.Cor.CrossCuttingConcerns.Exceptions.Handlers;
 
@@ -33,6 +37,14 @@ public class HttpExceptionHandler : ExceptionHandler
 
         //ongoremedıgımız bır hata ıcın yazıldı 
         string details = new InternelServerErrorProblemDetails(exception.Message).AsJson();
+
+        return Response.WriteAsync(details); //detayları ver
+    }
+
+    protected override Task HandlerException(ValidationException exception)
+    {
+        Response.StatusCode = StatusCodes.Status400BadRequest;
+        string details = new ValidationProblemDetails(exception.Errors).AsJson();
 
         return Response.WriteAsync(details); //detayları ver
     }
