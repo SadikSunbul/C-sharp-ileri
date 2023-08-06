@@ -1,0 +1,17 @@
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\bin\Debug\net7.0\Proje.Infrastructer.deps.json
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\bin\Debug\net7.0\Proje.Infrastructer.dll
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\bin\Debug\net7.0\Proje.Infrastructer.pdb
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\obj\Debug\net7.0\Proje.Infrastructer.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\obj\Debug\net7.0\Proje.Infrastructer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\obj\Debug\net7.0\Proje.Infrastructer.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\obj\Debug\net7.0\Proje.Infrastructer.AssemblyInfo.cs
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\obj\Debug\net7.0\Proje.Infrastructer.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\obj\Debug\net7.0\Proje.Infrastructer.dll
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\obj\Debug\net7.0\refint\Proje.Infrastructer.dll
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\obj\Debug\net7.0\Proje.Infrastructer.pdb
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\obj\Debug\net7.0\ref\Proje.Infrastructer.dll
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\bin\Debug\net7.0\Proje.Application.dll
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\bin\Debug\net7.0\Proje.Domain.dll
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\bin\Debug\net7.0\Proje.Application.pdb
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\bin\Debug\net7.0\Proje.Domain.pdb
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Infrastructer\Proje.Infrastructer\obj\Debug\net7.0\Proje.Infrastructer.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\bin\Debug\net7.0\Proje.Application.deps.json
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\bin\Debug\net7.0\Proje.Application.dll
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\bin\Debug\net7.0\Proje.Application.pdb
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\obj\Debug\net7.0\Proje.Application.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\obj\Debug\net7.0\Proje.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\obj\Debug\net7.0\Proje.Application.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\obj\Debug\net7.0\Proje.Application.AssemblyInfo.cs
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\obj\Debug\net7.0\Proje.Application.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\obj\Debug\net7.0\Proje.Application.dll
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\obj\Debug\net7.0\refint\Proje.Application.dll
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\obj\Debug\net7.0\Proje.Application.pdb
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\obj\Debug\net7.0\ref\Proje.Application.dll
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\bin\Debug\net7.0\Proje.Domain.dll
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\bin\Debug\net7.0\Proje.Domain.pdb
+C:\Users\artredline\Desktop\nArchtecter-Deneme\src\Proje\Core\Proje.Application\obj\Debug\net7.0\Proje.Application.csproj.CopyComplete
