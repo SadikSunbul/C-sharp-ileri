@@ -14,15 +14,20 @@ public class CarConfiguration : IEntityTypeConfiguration<Car>
     //arabayı confıgre ettıgımız yer
     public void Configure(EntityTypeBuilder<Car> builder)
     {
+
         builder.ToTable("Cars").HasKey(b => b.Id);
 
-        builder.Property(b => b.Id).IsRequired();
-        builder.Property(b => b.Model).IsRequired();
-        builder.Property(b => b.Marka).IsRequired();
-        builder.Property(b => b.CreateDate).IsRequired();
+        builder.Property(b => b.Id).HasColumnName("Id").IsRequired();
+        builder.Property(b => b.ModelId).HasColumnName("ModelId").IsRequired();
+        builder.Property(b => b.Kilometer).HasColumnName("Kilometer");
+        builder.Property(b => b.CarState).HasColumnName("State");
+        builder.Property(b => b.ModelYear).HasColumnName("ModelYear");
 
 
-        //global fltre
-        builder.HasQueryFilter(i => !i.DeletedDate.HasValue);
+
+        builder.HasOne(b => b.Model);
+
+        //global filtere
+        builder.HasQueryFilter(i => !i.DeletedDate.HasValue); //deleted ın valuesı yok ıse null olanları getır dedık 
     }
 }

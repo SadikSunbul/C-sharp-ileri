@@ -9,10 +9,19 @@ using System.Threading.Tasks;
 
 namespace Proje.Domain.Cor.CrossCuttingConcerns.Exceptions.Handlers;
 
+/// <summary>
+/// gelecek hataları handler (işleyici) edıcek ter
+/// </summary>
 public abstract class ExceptionHandler
 {
     //abstragın amacı 
     //gelecek olan hataları handler edıcek yer ımplemantasyon burada olmıycak o yuzden abstract yaprık 
+
+    /// <summary>
+    /// Gelen exception u kategorilere ayırıcak
+    /// </summary>
+    /// <param name="exception"></param>
+    /// <returns></returns>
     public Task HandlerExceptionAsync(Exception exception) =>
         exception switch
         { //gelen hatanın turune gore handler etme uygulıycaz

@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Proje.Application.Services.Repository
+namespace Proje.Application.Services.Repository;
+
+public interface ICarRepository : IAsyncRepository<Car, Guid>
 {
-    public interface ICarRepository:IAsyncRepository<Car,Guid>
-    {//burayı async oalrak kalıtıtk normal ılede kalıtıla bilir
-    }
+
 }

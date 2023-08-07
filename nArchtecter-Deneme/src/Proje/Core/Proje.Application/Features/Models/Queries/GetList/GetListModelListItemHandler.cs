@@ -1,0 +1,38 @@
+﻿using AutoMapper;
+using MediatR;
+using Microsoft.EntityFrameworkCore;
+using Proje.Application.Services.Repository;
+using Proje.Domain.Core.Applicatioın.Respons;
+using Proje.Domain.Core.Persistance.Paging;
+using Proje.Domain.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Proje.Application.Features.Models.Queries.GetList;
+
+public class GetListModelListItemHandler : IRequestHandler<GetListModelListItemRequest, GetListRespons<GetListModelListItemDto>>
+{
+    private readonly IMapper mapper;
+    private readonly IModelRepository modelRepository;
+
+    public GetListModelListItemHandler(IMapper mapper, IModelRepository modelRepository)
+    {
+        this.mapper = mapper;
+        this.modelRepository = modelRepository;
+    }
+    public async Task<GetListRespons<GetListModelListItemDto>> Handle(GetListModelListItemRequest request, CancellationToken cancellationToken)
+    {
+        Paginate<Model?> models = await modelRepository.GetListAsync(
+                include: m => m.Include(m => m.Brand).Include(m => m.Fuel).Include(m => m.Transmission),
+                index: request.PageRequest.PageIndex,
+                size: request.PageRequest.PageSize,
+                cancellationToken: cancellationToken
+                );
+
+        var respons = mapper.Map<GetListRespons<GetListModelListItemDto>>(models);
+        return respons;
+    }
+}
