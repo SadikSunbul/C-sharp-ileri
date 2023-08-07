@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-DizilereDerinlemesineBakış", "001-DizilereDerinlemesineBakış\001-DizilereDerinlemesineBakış.csproj", "{585A3A5A-42AE-4DDA-91D7-1207AB0B48DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001-DizilereDerinlemesineBakış", "001-DizilereDerinlemesineBakış\001-DizilereDerinlemesineBakış.csproj", "{585A3A5A-42AE-4DDA-91D7-1207AB0B48DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-Ref-Return&Ref-Local", "002-Ref-Return&Ref-Local\002-Ref-Return&Ref-Local.csproj", "{A48A198F-4892-4032-82F6-014EDC27678C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002-Ref-Return&Ref-Local", "002-Ref-Return&Ref-Local\002-Ref-Return&Ref-Local.csproj", "{A48A198F-4892-4032-82F6-014EDC27678C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-OperatorOverloading", "003-OperatorOverloading\003-OperatorOverloading.csproj", "{9FE48B2F-5D97-448F-AD15-FE5AD27C3244}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A48A198F-4892-4032-82F6-014EDC27678C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A48A198F-4892-4032-82F6-014EDC27678C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A48A198F-4892-4032-82F6-014EDC27678C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE48B2F-5D97-448F-AD15-FE5AD27C3244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE48B2F-5D97-448F-AD15-FE5AD27C3244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE48B2F-5D97-448F-AD15-FE5AD27C3244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE48B2F-5D97-448F-AD15-FE5AD27C3244}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
