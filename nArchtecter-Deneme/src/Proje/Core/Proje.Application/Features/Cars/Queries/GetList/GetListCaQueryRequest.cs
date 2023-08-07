@@ -11,6 +11,6 @@ namespace Proje.Application.Features.Cars.Queries.GetList
 {
     public class GetListCaQueryRequest:IRequest<GetListRespons<GetListCaQueryDto>>
     {
-        public PageRequest PageRequest { get; set; }
+        public PageRequest PageRequest { get; set; }//sayfalama ıcın gereklı bılgılerı alıcak 
     }
 }

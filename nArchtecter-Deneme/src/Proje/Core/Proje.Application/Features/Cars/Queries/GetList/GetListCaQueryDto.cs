@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace Proje.Application.Features.Cars.Queries.GetList
 {
+    /// <summary>
+    /// bu sını arabaları lıstelerken içinde neler olsun onu tutcak
+    /// </summary>
     public class GetListCaQueryDto
     {
         public Guid Id { get; set; }

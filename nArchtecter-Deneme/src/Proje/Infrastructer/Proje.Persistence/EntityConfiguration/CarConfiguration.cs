@@ -11,6 +11,7 @@ namespace Proje.Persistence.EntityConfiguration;
 
 public class CarConfiguration : IEntityTypeConfiguration<Car>
 {
+    //arabayı confıgre ettıgımız yer
     public void Configure(EntityTypeBuilder<Car> builder)
     {
         builder.ToTable("Cars").HasKey(b => b.Id);

@@ -17,33 +17,35 @@ using System.Threading.Tasks;
 namespace Proje.Domain.Core.Persistance.Repositories;
 
 public class EfBaseRepository<TEntity, TEntityId, TContext> : IAsyncRepository<TEntity, TEntityId> where TEntity : Entity<TEntityId> where TContext : DbContext
-{
+{ //burada artık ef core ıcın verı tabanı ıslemlerını gerceklestırıcez bır entıty bı ıd sını birde context aldık 
+
+    //IoC den cektik
     protected readonly TContext context;
 
     public EfBaseRepository(TContext context)
     {
         this.context = context;
     }
-
+    
     public async Task<TEntity> AddAsync(TEntity entity)
     {
-        entity.CreateDate = DateTime.UtcNow;
+        entity.CreateDate = DateTime.UtcNow; //ekleme zamanı eklıyoruz 
         await context.Set<TEntity>().AddAsync(entity);
-        await context.SaveChangesAsync();
+        await context.SaveChangesAsync(); //kayıt
         return entity;
     }
-
+   
     public async Task<ICollection<TEntity>> AddRangeAsync(ICollection<TEntity> entityes)
     {
-        foreach (var entity in entityes)
+        foreach (var entity in entityes) //elemanlara tek tek ekleme zamanı ekleniyor
         {
             entity.CreateDate = DateTime.UtcNow;
         }
         await context.Set<TEntity>().AddRangeAsync(entityes);
-        await context.SaveChangesAsync();
+        await context.SaveChangesAsync(); //kayıt
         return entityes;
     }
-
+    
     public async Task<bool> AnyAsync(
         Expression<Func<TEntity, bool>>? predication = null,
         bool withDeleted = false,
@@ -182,7 +184,7 @@ public class EfBaseRepository<TEntity, TEntityId, TContext> : IAsyncRepository<T
         }
     }
     #endregion
-
+    
     public async Task<TEntity?> GetAsync(
         Expression<Func<TEntity, bool>> predicate,
         Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null,
@@ -199,7 +201,7 @@ public class EfBaseRepository<TEntity, TEntityId, TContext> : IAsyncRepository<T
             quriyable = include(quriyable);
         return await quriyable.FirstOrDefaultAsync(predicate, cancellationToken).ConfigureAwait(false);
     }
-
+    
     public async Task<Paginate<TEntity?>> GetListAsync(
         Expression<Func<TEntity, bool>>? predicate = null,
         Func<IQueryable<TEntity>, IOrderedQueryable<TEntity>>? orderBy = null,
@@ -226,6 +228,7 @@ public class EfBaseRepository<TEntity, TEntityId, TContext> : IAsyncRepository<T
 
     public IQueryable<TEntity> Query() => context.Set<TEntity>().AsQueryable();
 
+  
     public async Task<TEntity> UpdateAsync(TEntity entity)
     {
         entity.UpdateDate = DateTime.UtcNow;
@@ -233,7 +236,7 @@ public class EfBaseRepository<TEntity, TEntityId, TContext> : IAsyncRepository<T
         await context.SaveChangesAsync();
         return entity;
     }
-
+    
     public async Task<ICollection<TEntity>> UpdateRangeAsync(ICollection<TEntity> entityes)
     {
         foreach (var entity in entityes)
@@ -245,6 +248,7 @@ public class EfBaseRepository<TEntity, TEntityId, TContext> : IAsyncRepository<T
         return entityes;
     }
 
+   
     public async Task<Paginate<TEntity>> GetListByDynamic(
         DynamicQuery dynamic,
         Expression<Func<TEntity, bool>>? predicate = null,

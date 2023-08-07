@@ -22,6 +22,12 @@ public class BrandBusinessRules : BaseBusinessRules
         this.carRepository = carRepository;
     }
 
+    /// <summary>
+    /// Bu methodun kullanıldıgı yerde Araba Markası için bir kontrol saglar bu Marka varmı kontrolu yapar var ise hata veriri
+    /// </summary>
+    /// <param name="marka"></param>
+    /// <returns></returns>
+    /// <exception cref="BusinessException"></exception>
     public async Task BrandNameConnotBeDuplicatedWhenInserted(string marka)
     {
         Car? result = await carRepository.GetAsync(predicate: i => i.Marka.ToLower() == marka.ToLower());

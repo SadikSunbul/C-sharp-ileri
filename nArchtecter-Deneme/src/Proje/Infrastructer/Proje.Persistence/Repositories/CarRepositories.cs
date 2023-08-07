@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace Proje.Persistence.Repositories;
 
 public class CarRepositories : EfBaseRepository<Car, Guid, BaseContext>, ICarRepository
-{
+{ //car ıcın ef core ozellıklerini cekıyoruz
     public CarRepositories(BaseContext context) : base(context)
     {
     }

@@ -43,8 +43,7 @@ public class ValidationException : Exception
     }
 }
 
-
-public class ValidationExceptionModel
+public class ValidationExceptionModel 
 {//1 alanın 1den fazla hatası olabilir 
     public string? Property { get; set; }
     public IEnumerable<string>? Errors { get; set; }

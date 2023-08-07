@@ -22,12 +22,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-//if (app.Environment.IsProduction())
-//{
+if (app.Environment.IsProduction())
+{
     app.ConfigureCustomExceptionMiddleware();
     //kullanýcý ýcýn bu hata yontemýný kullan
     //developera daha fazla býr býlgý vermesý lazým býze lazým 
-//}
+}
 
 
 app.UseHttpsRedirection();

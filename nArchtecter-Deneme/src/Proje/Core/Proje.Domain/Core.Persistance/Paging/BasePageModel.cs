@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Proje.Domain.Core.Persistance.Paging;
 
+/// <summary>
+/// Burası sayfalama hakkında bılgıler verırı itemleri vermez 
+/// </summary>
 public abstract class BasePageModel
 {
     public int Size { get; set; }//sayfada kac data var

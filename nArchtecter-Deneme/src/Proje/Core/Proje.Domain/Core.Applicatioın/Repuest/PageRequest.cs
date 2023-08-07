@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Proje.Domain.Core.Applicatioın.Repuest
 {
+    /// <summary>
+    /// Sayfalama işlemi için gerekli olan bilgileri almak için kullanılır
+    /// </summary>
     public class PageRequest
     {
         public int PageIndex { get; set; }

@@ -8,6 +8,7 @@ namespace Proje.Domain.Core.Persistance.Repositories;
 
 public class Entity<IEntityId>: IEntityTimeStamps
 {
+    //Burada temel entitilerimizde olucak ortak yerlerı yazdık zaman kısmını ılerıde farklı degerlendıre bilmekk için interface yapısına koyduk 
     public IEntityId Id { get; set; }
     public DateTime CreateDate { get; set; }
     public DateTime? UpdateDate { get; set; }

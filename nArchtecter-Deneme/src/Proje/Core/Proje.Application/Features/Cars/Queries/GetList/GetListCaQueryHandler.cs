@@ -26,7 +26,7 @@ namespace Proje.Application.Features.Cars.Queries.GetList
 
         public async Task<GetListRespons<GetListCaQueryDto>> Handle(GetListCaQueryRequest request, CancellationToken cancellationToken)
         {
-            Paginate<Car>? data = await carRepository.GetListAsync(index: request.PageRequest.PageIndex, size: request.PageRequest.PageSize, cancellationToken: cancellationToken);
+            Paginate<Car?> data = await carRepository.GetListAsync(index: request.PageRequest.PageIndex, size: request.PageRequest.PageSize, cancellationToken: cancellationToken);
 
             GetListRespons<GetListCaQueryDto> respons = mapper.Map<GetListRespons<GetListCaQueryDto>>(data);
             return respons;

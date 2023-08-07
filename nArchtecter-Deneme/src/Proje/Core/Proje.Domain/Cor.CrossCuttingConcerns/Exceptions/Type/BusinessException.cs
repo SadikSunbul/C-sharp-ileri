@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace Cor.CrossCuttingConcerns.Exceptions.Types;
 
-public class BusinessException : Exception
+/// <summary>
+/// kendi iş hata sınıfımızı olusturduk 
+/// </summary>
+public class BusinessException : Exception //bunun bir hata sınıfı oldugunu ımzaladık 
 {
+    //farklı ctor lar ile içine bılgılerı aldık 
     public BusinessException()
     {
 

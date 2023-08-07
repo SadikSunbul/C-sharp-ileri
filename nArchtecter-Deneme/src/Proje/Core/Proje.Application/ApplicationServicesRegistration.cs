@@ -15,32 +15,49 @@ public static class ApplicationServicesRegistration
 {
     public static IServiceCollection AddApplicationServices(this IServiceCollection services)
     {
+        //Mediater ioc kaydını yapık 
         services.AddMediatR(opt =>
         {
-            opt.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly());
+            opt.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly()); //tum dosyaları gez ve bul dedik
 
             opt.AddOpenBehavior(typeof(RequestValidaterBehavior<,>));
         });
 
-        services.AddSubClassesOfType(Assembly.GetExecutingAssembly(), typeof(BaseBusinessRules));
+        services.AddSubClassesOfType(Assembly.GetExecutingAssembly(), typeof(BaseBusinessRules)); //İş sınıflarımızı ekliyoeuz burada
 
-        services.AddAutoMapper(Assembly.GetExecutingAssembly());
+        services.AddAutoMapper(Assembly.GetExecutingAssembly()); //oto mapper kaydı 
 
-        services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());    
-        
+        services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());    //fuluent valıdater kaydı 
+
 
         return services;
     }
+    /// <summary>
+    /// servis extensinı 
+    /// hangi assamblyde arıycak 
+    /// ne arıycak girilcek ve 
+    /// otomatik bir şekilde aram ayapıp ilgili kalıtılmıs vb lerı bulup ıoc ye eklıycektır 
+    /// </summary>
+    /// <param name="services"></param>
+    /// <param name="assembly"></param>
+    /// <param name="type"></param>
+    /// <param name="addWithLifeCycle"></param>
+    /// <returns></returns>
     public static IServiceCollection AddSubClassesOfType(
      this IServiceCollection services,
      Assembly assembly,
      Type type,
      Func<IServiceCollection, Type, IServiceCollection>? addWithLifeCycle = null)
     {
+        //Asambly tıpınde bır arama yap 
         var types = assembly.GetTypes().Where(t => t.IsSubclassOf(type) && type != t).ToList();
+        //GetTypes() fonksiyonu, derleme içindeki tüm türleri döndürür.
+        //türleri filtrelerken "type" adlı bir türün alt türü olanları seçer. Yani, "type" türünün alt türleri (miras alınan türler) seçilir. Örneğin, "type" bir "Person" türünü temsil ediyorsa, "Person" türünden türetilmiş alt türler seçilir.
+        //type != t: Bu kısım, "type" türü ile "t" türünün aynı olmadığını kontrol eder. Bu, doğrudan "type" türünü dışlamak için kullanılır. Yani, "type" türü kendisini seçilmeyen türler arasına koymak için kullanılır. yanı type ın kendı degerını almaz içine
+
         foreach (var item in types)
             if (addWithLifeCycle == null)
-                services.AddScoped(item);
+                services.AddScoped(item); //gelen tıplerı tek tek ekleriz
 
             else
                 addWithLifeCycle(services, type);
@@ -48,3 +65,8 @@ public static class ApplicationServicesRegistration
     }
 
 }
+
+/*
+ services.AddScoped(Car);     ----> ıoc den cekme ---> Car car ;deriz
+services.AddScoped<ICar,Car>();  --->ıoc den cekme ---> ICar car ; deriz bu bize Car ı getirir,
+ */

@@ -20,8 +20,8 @@ public static class ApplicationServicesRegistration
     {
         //services.AddDbContext<BaseContext>(config => config.UseInMemoryDatabase("nArchtecture"));
 
-        services.AddDbContext<BaseContext>(cof => cof.UseSqlServer(configuration.GetConnectionString("mssql"))); 
-        services.AddScoped<ICarRepository, CarRepositories>();
+        services.AddDbContext<BaseContext>(cof => cof.UseSqlServer(configuration.GetConnectionString("mssql"))); //mssql baglantı kurdugumzu yer
+        services.AddScoped<ICarRepository, CarRepositories>(); //araba repositorısını IoC ye kayıt ettık 
         return services;
     }
 }
