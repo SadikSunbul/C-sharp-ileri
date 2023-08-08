@@ -55,7 +55,7 @@ public class EfBaseRepository<TEntity, TEntityId, TContext> : IAsyncRepository<T
         IQueryable<TEntity> querayable = Query();
         if (!enableTracing)
             querayable = querayable.AsNoTracking();
-        if (!withDeleted)
+        if (withDeleted)
             querayable.IgnoreQueryFilters();
         if (predication != null)
             querayable = querayable.Where(predication);

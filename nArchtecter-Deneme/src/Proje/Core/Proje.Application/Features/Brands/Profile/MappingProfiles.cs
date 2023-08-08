@@ -4,6 +4,7 @@ using Proje.Application.Features.Brands.Commends.Delete;
 using Proje.Application.Features.Brands.Commends.Update;
 using Proje.Application.Features.Brands.Queries.GetById;
 using Proje.Application.Features.Brands.Queries.GetList;
+using Proje.Application.Features.Brands.Queries.GetListByDynamic;
 using Proje.Domain.Core.Applicatioın.Respons;
 using Proje.Domain.Core.Persistance.Paging;
 using Proje.Domain.Core.Persistance.Repositories;
@@ -32,6 +33,10 @@ namespace Proje.Application.Features.Brands.Profiles
             CreateMap<GetListRespons<GetListBrandListItemDto>, Paginate<Brand>>().ReverseMap();
 
             CreateMap<GetByBrandRespons, Brand>().ReverseMap();
+
+
+            CreateMap<GetListByDynamicBrandQueriesDto, Brand>().ReverseMap();
+            CreateMap<GetListRespons<GetListByDynamicBrandQueriesDto>, Paginate<Brand>>().ReverseMap();
 
         }
     }

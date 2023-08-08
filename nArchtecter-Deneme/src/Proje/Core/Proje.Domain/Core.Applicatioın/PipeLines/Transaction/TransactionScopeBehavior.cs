@@ -14,7 +14,7 @@ public class TransactionScopeBehavior<TRequest, TRespons> : IPipelineBehavior<TR
     //yukardakılere uyan var ıse bu alttakı handler calsıcaktır
     public async Task<TRespons> Handle(TRequest request, RequestHandlerDelegate<TRespons> next, CancellationToken cancellationToken)
     {
-        using TransactionScope transactionScope =new (TransactionScopeAsyncFlowOption.Enabled); //asenkronu enabeld edıyoruz etkınlestırıyor
+        using TransactionScope transactionScope =new (TransactionScopeAsyncFlowOption.Enabled); //asenkronu enabeld(etkınlestırıyor) edıyoruz 
         TRespons respons; //respons nesnesı olusturduk 
         try
         {

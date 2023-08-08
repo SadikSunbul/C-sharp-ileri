@@ -5,6 +5,11 @@ using Proje.Application.Features.Brands.Commends.Delete;
 using Proje.Application.Features.Brands.Commends.Update;
 using Proje.Application.Features.Brands.Queries.GetById;
 using Proje.Application.Features.Brands.Queries.GetList;
+using Proje.Application.Features.Brands.Queries.GetListByDynamic;
+using Proje.Application.Features.Models.Queries.GetListByDynamic;
+using Proje.Domain.Core.Applicatioın.Repuest;
+using Proje.Domain.Core.Applicatioın.Respons;
+using Proje.Domain.Core.Persistance.Dynamic;
 
 namespace WebApi.Controllers
 {
@@ -47,6 +52,14 @@ namespace WebApi.Controllers
         {
             var resposn = await Mediator.Send(request);
             return Ok(resposn);
+        }
+
+        [HttpPost("getlist/bydynamic")]
+        public async Task<IActionResult> GetList([FromQuery] PageRequest pageRequest, [FromBody] DynamicQuery? dynamicQuery)
+        {
+            GetListByDynamicBrandQueriesRequest getListModelQuery = new() { PageRequest = pageRequest, dynamicQuery = dynamicQuery };
+            GetListRespons<GetListByDynamicBrandQueriesDto> respons = await Mediator.Send(getListModelQuery);
+            return Ok(respons);
         }
     }
 }
