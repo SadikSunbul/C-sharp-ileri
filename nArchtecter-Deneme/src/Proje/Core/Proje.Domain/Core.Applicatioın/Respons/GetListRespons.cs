@@ -18,7 +18,7 @@ namespace Proje.Domain.Core.Applicatioın.Respons
 
         public IList<TEntity> Items
         {
-            get => items ??= new List<TEntity>(); //item yoksa yeni oluştur 
+            get => items ??= new List<TEntity>(); //item yoksa yeni bos oluştur 
             set => items = value;
         }
     }

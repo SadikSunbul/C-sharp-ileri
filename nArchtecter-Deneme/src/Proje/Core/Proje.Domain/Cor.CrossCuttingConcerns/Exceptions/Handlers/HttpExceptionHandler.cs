@@ -14,9 +14,10 @@ using ValidationProblemDetails = Proje.Domain.Cor.CrossCuttingConcerns.Exception
 
 namespace Proje.Domain.Cor.CrossCuttingConcerns.Exceptions.Handlers;
 
+//ExceptionHandler dakılerın ıcerısını doldurur hata ların kodları mesajlar bruada yapılaırılır 
 public class HttpExceptionHandler : ExceptionHandler
 {
-    private HttpResponse? response;
+    private HttpResponse? response; //http gerı donus deger
     public HttpResponse Response
     {
         get => response ?? throw new ArgumentNullException(nameof(response)); //boş ise nul hatası dondur

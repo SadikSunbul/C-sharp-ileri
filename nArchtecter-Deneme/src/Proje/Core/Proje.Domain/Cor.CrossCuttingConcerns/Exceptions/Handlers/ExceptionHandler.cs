@@ -13,7 +13,7 @@ namespace Proje.Domain.Cor.CrossCuttingConcerns.Exceptions.Handlers;
 /// gelecek hataları handler (işleyici) edıcek ter
 /// </summary>
 public abstract class ExceptionHandler
-{
+{//burada stratejı olusturulcak implementasyon bunu kalıtıldıgı yerde olucaktır 
     //abstragın amacı 
     //gelecek olan hataları handler edıcek yer ımplemantasyon burada olmıycak o yuzden abstract yaprık 
 

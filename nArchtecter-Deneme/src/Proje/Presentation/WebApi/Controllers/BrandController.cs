@@ -31,6 +31,7 @@ namespace WebApi.Controllers
         public async Task<IActionResult> Update([FromBody] UpdateBrandCommandRequest request)
         {
             var respons = await Mediator.Send(request);
+
             return Ok(respons);
         }
 

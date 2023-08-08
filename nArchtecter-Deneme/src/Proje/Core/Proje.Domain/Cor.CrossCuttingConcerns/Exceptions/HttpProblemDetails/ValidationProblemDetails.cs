@@ -13,6 +13,10 @@ namespace Proje.Domain.Cor.CrossCuttingConcerns.Exceptions.HttpProblemDetails
     {
         public IEnumerable<ValidationExceptionModel> Erors { get; set; }
 
+        /// <summary>
+        /// Fluent valıdatın ıcın hata yapılandırılması
+        /// </summary>
+        /// <param name="errors"></param>
         public ValidationProblemDetails(IEnumerable<ValidationExceptionModel> errors)
         {
             Title = "Rule Vialation";

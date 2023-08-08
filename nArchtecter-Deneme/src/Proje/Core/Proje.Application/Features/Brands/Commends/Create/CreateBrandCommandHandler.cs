@@ -33,7 +33,9 @@ public class CreateBrandCommandHandler : IRequestHandler<CreateBrandCommandReque
         Brand brand = mapper.Map<Brand>(request);
         brand.Id = Guid.NewGuid();
 
-        await brandRepository.AddAsync(brand);
+        await brandRepository.AddAsync(brand); //bu basarılı oldu 
+        // await brandRepository.AddAsync(brand); //bu basarısız oldu ıse ilkının ıslemı gerı alınmalıdır 
+
         CreateBrandCommandRespons respons = mapper.Map<CreateBrandCommandRespons>(brand);
         return respons;
     }

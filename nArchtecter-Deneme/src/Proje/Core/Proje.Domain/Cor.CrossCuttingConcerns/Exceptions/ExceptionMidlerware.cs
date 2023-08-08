@@ -16,18 +16,18 @@ public class ExceptionMidlerware
     public ExceptionMidlerware(RequestDelegate next)
     {
         _next = next;
-        _httpExceptionHandler = new HttpExceptionHandler();
+        _httpExceptionHandler = new HttpExceptionHandler(); //1 tane cunkı burası oyuzden drekt newledık 
     }
-
+    //tek trycach ıle uygulamanın tamamı buradan gecsın 
     public async Task Invoke(HttpContext context)
     {
         try
         {
-            await _next(context); //apıden gelen ıstegı calıstır
+            await _next(context); //apıden gelen ıstegı bır sonrakı ne gecer calıstır
         }
-        catch (Exception ex)
+        catch (Exception ex) //hata durumunda buraya gırer 
         {
-            await HandlerExceptionAsync(context.Response, ex);
+            await HandlerExceptionAsync(context.Response, ex); 
         }
     }
 

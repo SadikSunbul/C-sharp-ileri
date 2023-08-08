@@ -2,6 +2,7 @@
 using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
 using Proje.Application.PipeLines.Validation;
+using Proje.Domain.Core.Applicatioın.PipeLines.Transaction;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,11 +17,15 @@ public static class ApplicationServicesRegistration
     public static IServiceCollection AddApplicationServices(this IServiceCollection services)
     {
         //Mediater ioc kaydını yapık 
-        services.AddMediatR(opt =>
+        services.AddMediatR(configuration =>
         {
-            opt.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly()); //tum dosyaları gez ve bul dedik
+            configuration.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly()); //tum dosyaları gez ve bul dedik
 
-            opt.AddOpenBehavior(typeof(RequestValidaterBehavior<,>));
+            configuration.AddOpenBehavior(typeof(RequestValidaterBehavior<,>)); //git bır request calsıtrcaksan burdan mıdel warede bır gecir
+            //pıplınelerın devreye gırmesı ıcın yazıldı burası 
+
+            configuration.AddOpenBehavior(typeof
+                (TransactionScopeBehavior<,>));
         });
 
         services.AddSubClassesOfType(Assembly.GetExecutingAssembly(), typeof(BaseBusinessRules)); //İş sınıflarımızı ekliyoeuz burada
