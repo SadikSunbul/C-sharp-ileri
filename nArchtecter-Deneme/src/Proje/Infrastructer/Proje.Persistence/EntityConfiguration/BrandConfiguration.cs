@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Proje.Domain.Entities;
+using System.Net;
 
 namespace Proje.Persistence.EntityConfiguration;
 
@@ -18,7 +19,7 @@ public class BrandConfiguration : IEntityTypeConfiguration<Brand>
         builder.HasIndex(indexExpression: b => b.Name, name: "Uk_Brands_Name").IsUnique(); //isime göre bir indexleme yaptı isimler farklı olmalıdır dedi
 
         builder.HasMany(b => b.Models); //birsürü modele sahip olabilir
-
+        
         //global filtere
         builder.HasQueryFilter(i => !i.DeletedDate.HasValue); //deleted ın valuesı yok ıse null olanları getır dedık 
     }
