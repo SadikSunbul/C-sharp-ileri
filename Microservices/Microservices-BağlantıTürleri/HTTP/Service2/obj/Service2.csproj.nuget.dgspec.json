@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artredline\\Desktop\\Microservices\\HTTP\\Service2\\Service2.csproj": {}
+    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\Microservices\\Microservices-BağlantıTürleri\\HTTP\\Service2\\Service2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artredline\\Desktop\\Microservices\\HTTP\\Service2\\Service2.csproj": {
+    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\Microservices\\Microservices-BağlantıTürleri\\HTTP\\Service2\\Service2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\Microservices\\HTTP\\Service2\\Service2.csproj",
+        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\Microservices\\Microservices-BağlantıTürleri\\HTTP\\Service2\\Service2.csproj",
         "projectName": "Service2",
-        "projectPath": "C:\\Users\\artredline\\Desktop\\Microservices\\HTTP\\Service2\\Service2.csproj",
+        "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\Microservices\\Microservices-BağlantıTürleri\\HTTP\\Service2\\Service2.csproj",
         "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artredline\\Desktop\\Microservices\\HTTP\\Service2\\obj\\",
+        "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\Microservices\\Microservices-BağlantıTürleri\\HTTP\\Service2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

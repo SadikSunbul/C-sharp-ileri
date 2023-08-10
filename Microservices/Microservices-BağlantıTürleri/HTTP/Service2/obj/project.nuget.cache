@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P1FXMwQofFjGOkvtfMvImjWtYHYL91ejYR8aLGzgz84/JiQd4GgAWEHLXFwaaxEw2AcaPcGyMXbzZ98YmO5qEg==",
+  "dgSpecHash": "v6N5Kp7K2V8wNc18Otg/ADIFa2oAx0Zx0+yFTwbrqZaDPUGu5RHeg/f6ppvP6tvpQD3ZivVrHnrdU7x4iOYOcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\artredline\\Desktop\\Microservices\\HTTP\\Service2\\Service2.csproj",
+  "projectFilePath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\Microservices\\Microservices-BağlantıTürleri\\HTTP\\Service2\\Service2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\artredline\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

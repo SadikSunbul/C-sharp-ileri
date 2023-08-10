@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Servic2.props" />
+</Project>
