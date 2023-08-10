@@ -1,0 +1,17 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\bin\Debug\net7.0\Service2.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\bin\Debug\net7.0\Service2.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\bin\Debug\net7.0\Service2.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\bin\Debug\net7.0\Service2.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\bin\Debug\net7.0\Service2.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\obj\Debug\net7.0\Service2.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\obj\Debug\net7.0\Service2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\obj\Debug\net7.0\Service2.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\obj\Debug\net7.0\Service2.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\obj\Debug\net7.0\Service2.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\obj\Debug\net7.0\Service2.csproj.CopyComplete
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\obj\Debug\net7.0\Service2.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\obj\Debug\net7.0\refint\Service2.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\obj\Debug\net7.0\Service2.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\obj\Debug\net7.0\Service2.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Service2\obj\Debug\net7.0\ref\Service2.dll

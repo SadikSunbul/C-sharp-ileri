@@ -1,0 +1,17 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\bin\Debug\net7.0\Servic1.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\bin\Debug\net7.0\Servic1.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\bin\Debug\net7.0\Servic1.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\bin\Debug\net7.0\Servic1.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\bin\Debug\net7.0\Servic1.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\obj\Debug\net7.0\Servic1.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\obj\Debug\net7.0\Servic1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\obj\Debug\net7.0\Servic1.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\obj\Debug\net7.0\Servic1.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\obj\Debug\net7.0\Servic1.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\obj\Debug\net7.0\Servic1.csproj.CopyComplete
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\obj\Debug\net7.0\Servic1.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\obj\Debug\net7.0\refint\Servic1.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\obj\Debug\net7.0\Servic1.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\obj\Debug\net7.0\Servic1.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\Microservices\Microservices-BağlantıTürleri\MessageBroker\Servic1\obj\Debug\net7.0\ref\Servic1.dll
