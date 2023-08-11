@@ -1,0 +1,5 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\004-Implicit&ExplicitOperatorsOverloading\obj\Debug\net7.0\004-Implicit&ExplicitOperatorsOverloading.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\004-Implicit&ExplicitOperatorsOverloading\obj\Debug\net7.0\004-Implicit&ExplicitOperatorsOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\004-Implicit&ExplicitOperatorsOverloading\obj\Debug\net7.0\004-Implicit&ExplicitOperatorsOverloading.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\004-Implicit&ExplicitOperatorsOverloading\obj\Debug\net7.0\004-Implicit&ExplicitOperatorsOverloading.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\C#-İle-İleri-Düzey-Programlama\004-Implicit&ExplicitOperatorsOverloading\obj\Debug\net7.0\004-Implicit&ExplicitOperatorsOverloading.csproj.CoreCompileInputs.cache
