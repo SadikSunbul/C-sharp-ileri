@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001.NameSpace", "001.NameSp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002-Koleksiyon", "002-Koleksiyon\002-Koleksiyon.csproj", "{C796C49D-A3AE-404C-A549-46E457C596C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-AnonymousTypes", "003-AnonymousTypes\003-AnonymousTypes.csproj", "{77F7445C-CA9E-47AB-B524-451974BC389A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003-AnonymousTypes", "003-AnonymousTypes\003-AnonymousTypes.csproj", "{77F7445C-CA9E-47AB-B524-451974BC389A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004- NesnelOperatörler", "004- NesnelOperatörler\004- NesnelOperatörler.csproj", "{9B351A4B-DA0E-430F-84B1-294457728A50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{77F7445C-CA9E-47AB-B524-451974BC389A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77F7445C-CA9E-47AB-B524-451974BC389A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77F7445C-CA9E-47AB-B524-451974BC389A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B351A4B-DA0E-430F-84B1-294457728A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B351A4B-DA0E-430F-84B1-294457728A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B351A4B-DA0E-430F-84B1-294457728A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B351A4B-DA0E-430F-84B1-294457728A50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
