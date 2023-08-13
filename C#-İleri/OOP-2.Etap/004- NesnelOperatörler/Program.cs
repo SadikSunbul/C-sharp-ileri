@@ -154,6 +154,7 @@ if(deneme.Name=="Sadık" && deneme.Age>10 &&deneme.Maaried==false)
 {
 
 }
+//tum propertylerı kontrol etmek zorunda degılız sadece name ve age de olabılır
 if (deneme is { Name:"Sadık",Age:>10,Maaried:false})
 {
 
