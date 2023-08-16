@@ -1,0 +1,15 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\bin\Debug\net7.0\WebAppTaskConsolApplication.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\bin\Debug\net7.0\WebAppTaskConsolApplication.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\bin\Debug\net7.0\WebAppTaskConsolApplication.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\bin\Debug\net7.0\WebAppTaskConsolApplication.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\bin\Debug\net7.0\WebAppTaskConsolApplication.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\obj\Debug\net7.0\WebAppTaskConsolApplication.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\obj\Debug\net7.0\WebAppTaskConsolApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\obj\Debug\net7.0\WebAppTaskConsolApplication.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\obj\Debug\net7.0\WebAppTaskConsolApplication.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\obj\Debug\net7.0\WebAppTaskConsolApplication.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\obj\Debug\net7.0\WebAppTaskConsolApplication.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\obj\Debug\net7.0\refint\WebAppTaskConsolApplication.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\obj\Debug\net7.0\WebAppTaskConsolApplication.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\obj\Debug\net7.0\WebAppTaskConsolApplication.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\WebApi Task Async Benchmark  Await Task  Async Task Api\WebAppTask\WebAppTaskConsolApplication\obj\Debug\net7.0\ref\WebAppTaskConsolApplication.dll

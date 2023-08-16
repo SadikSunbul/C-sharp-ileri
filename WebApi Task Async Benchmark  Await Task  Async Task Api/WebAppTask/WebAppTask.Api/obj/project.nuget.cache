@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "G2HQN9z/wwH9dIep/+5v1ba9s5Ap+SQDtzZMuIhf8yBZlDyZuM1I9Nwb3DCIxqiNPssOkWOfHH/q8wavE+EdZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\WebApi Task Async Benchmark  Await Task  Async Task Api\\WebAppTask\\WebAppTask.Api\\WebAppTask.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artredline\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
