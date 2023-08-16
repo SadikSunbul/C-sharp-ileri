@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Range-Index Nedir", "Range-Index Nedir\Range-Index Nedir.csproj", "{329E4004-14C3-41BE-8F14-FBE1144C5003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329E4004-14C3-41BE-8F14-FBE1144C5003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329E4004-14C3-41BE-8F14-FBE1144C5003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329E4004-14C3-41BE-8F14-FBE1144C5003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329E4004-14C3-41BE-8F14-FBE1144C5003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74F93188-3171-4E26-A61B-3CC3076438D0}
+	EndGlobalSection
+EndGlobal
