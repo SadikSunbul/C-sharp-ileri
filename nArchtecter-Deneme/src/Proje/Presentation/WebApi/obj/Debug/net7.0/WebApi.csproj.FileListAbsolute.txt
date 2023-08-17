@@ -175,3 +175,11 @@ C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Prese
 C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\System.CodeDom.dll
 C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\FluentValidation.dll
 C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\nArchtecter-Deneme\src\Proje\Presentation\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll

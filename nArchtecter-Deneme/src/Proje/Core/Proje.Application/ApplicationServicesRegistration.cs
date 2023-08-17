@@ -2,6 +2,7 @@
 using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
 using Proje.Application.PipeLines.Validation;
+using Proje.Domain.Core.Applicatioın.PipeLines.Caching;
 using Proje.Domain.Core.Applicatioın.PipeLines.Transaction;
 using System;
 using System.Collections.Generic;
@@ -24,8 +25,9 @@ public static class ApplicationServicesRegistration
             configuration.AddOpenBehavior(typeof(RequestValidaterBehavior<,>)); //git bır request calsıtrcaksan burdan mıdel warede bır gecir
             //pıplınelerın devreye gırmesı ıcın yazıldı burası 
 
-            configuration.AddOpenBehavior(typeof
-                (TransactionScopeBehavior<,>));
+            configuration.AddOpenBehavior(typeof(TransactionScopeBehavior<,>));
+            configuration.AddOpenBehavior(typeof(CachingBehavior<,>));
+            configuration.AddOpenBehavior(typeof(ICacheRemowerRequest<,>));
         });
 
         services.AddSubClassesOfType(Assembly.GetExecutingAssembly(), typeof(BaseBusinessRules)); //İş sınıflarımızı ekliyoeuz burada

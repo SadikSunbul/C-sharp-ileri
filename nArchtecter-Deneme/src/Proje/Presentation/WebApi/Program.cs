@@ -11,6 +11,10 @@ builder.Services.AddControllers();
 builder.Services.AddApplicationServices();
 builder.Services.AddPersistenceService(builder.Configuration);
 
+//builder.Services.AddDistributedMemoryCache();//burasý inmemory olur
+
+builder.Services.AddStackExchangeRedisCache(opt => opt.Configuration="localhost:1452");//ggenelede localhost:6379 bu adreste olur ama ben kendý dockerýmde bunun adresýný degýstýrmýstým 
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

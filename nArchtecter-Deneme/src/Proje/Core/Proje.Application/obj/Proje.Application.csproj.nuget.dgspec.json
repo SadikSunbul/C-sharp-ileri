@@ -155,6 +155,10 @@
               "target": "Package",
               "version": "[7.0.9, )"
             },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "System.Linq.Dynamic.Core": {
               "target": "Package",
               "version": "[1.3.4, )"
