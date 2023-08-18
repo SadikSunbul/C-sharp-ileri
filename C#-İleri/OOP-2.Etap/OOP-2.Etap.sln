@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002-Koleksiyon", "002-Kolek
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003-AnonymousTypes", "003-AnonymousTypes\003-AnonymousTypes.csproj", "{77F7445C-CA9E-47AB-B524-451974BC389A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004- NesnelOperatörler", "004- NesnelOperatörler\004- NesnelOperatörler.csproj", "{9B351A4B-DA0E-430F-84B1-294457728A50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004- NesnelOperatörler", "004- NesnelOperatörler\004- NesnelOperatörler.csproj", "{9B351A4B-DA0E-430F-84B1-294457728A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır", "005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.csproj", "{5D4931A6-1338-44E2-BCDC-4D075C61D35F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9B351A4B-DA0E-430F-84B1-294457728A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B351A4B-DA0E-430F-84B1-294457728A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B351A4B-DA0E-430F-84B1-294457728A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D4931A6-1338-44E2-BCDC-4D075C61D35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4931A6-1338-44E2-BCDC-4D075C61D35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4931A6-1338-44E2-BCDC-4D075C61D35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4931A6-1338-44E2-BCDC-4D075C61D35F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

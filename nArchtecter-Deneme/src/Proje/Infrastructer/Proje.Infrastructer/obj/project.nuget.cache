@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NB99F6vxLkdag8DriD+atkwiWNT3mqxMXhkw4oYDCAtiSscgGwfN7l8/9XnBJQPk82zbNDGd1OoCS5443eaq4A==",
+  "dgSpecHash": "MC8eadXdxQY8SeqJzwvS7PH0p4juyG0t+I5K+nnsFL1I+jJg9J7Y60rs3NnvTzC5QJEdkS3VmicEQbBZz9/sEA==",
   "success": true,
   "projectFilePath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\nArchtecter-Deneme\\src\\Proje\\Infrastructer\\Proje.Infrastructer\\Proje.Infrastructer.csproj",
   "expectedPackageFiles": [
@@ -50,6 +50,8 @@
     "C:\\Users\\artredline\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",

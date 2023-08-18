@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using MediatR;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Proje.Application.Features.Brands.Commends.Create;
 using Proje.Application.Features.Brands.Commends.Delete;
@@ -17,6 +18,12 @@ namespace WebApi.Controllers
     [ApiController]
     public class BrandController : BaseController
     {
+        //private readonly IMediator Mediator;
+
+        //public BrandController(IMediator mediator)
+        //{
+        //    Mediator = mediator;
+        //}
 
         [HttpPost]
         public async Task<IActionResult> BrandCreate([FromBody] CreateBrandCommandRequest request)

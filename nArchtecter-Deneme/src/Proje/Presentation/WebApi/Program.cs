@@ -15,6 +15,9 @@ builder.Services.AddPersistenceService(builder.Configuration);
 
 builder.Services.AddStackExchangeRedisCache(opt => opt.Configuration="localhost:1452");//ggenelede localhost:6379 bu adreste olur ama ben kendý dockerýmde bunun adresýný degýstýrmýstým 
 
+builder.Services.AddHttpContextAccessor(); //Log ýslemýnde kulalndýgýmýz ýcýn buraya ekledýk bunu 
+
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -34,7 +37,7 @@ if (app.Environment.IsProduction())
     //kullanýcý ýcýn bu hata yontemýný kullan
     //developera daha fazla býr býlgý vermesý lazým býze lazým 
 }
-
+app.ConfigureCustomExceptionMiddleware();
 
 app.UseHttpsRedirection();
 

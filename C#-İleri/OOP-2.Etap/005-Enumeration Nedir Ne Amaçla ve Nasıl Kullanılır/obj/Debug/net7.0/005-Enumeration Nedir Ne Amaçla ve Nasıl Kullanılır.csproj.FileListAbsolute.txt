@@ -1,0 +1,15 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\bin\Debug\net7.0\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\bin\Debug\net7.0\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\bin\Debug\net7.0\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\bin\Debug\net7.0\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\bin\Debug\net7.0\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\obj\Debug\net7.0\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\obj\Debug\net7.0\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\obj\Debug\net7.0\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\obj\Debug\net7.0\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\obj\Debug\net7.0\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\obj\Debug\net7.0\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\obj\Debug\net7.0\refint\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\obj\Debug\net7.0\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\obj\Debug\net7.0\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\obj\Debug\net7.0\ref\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.dll

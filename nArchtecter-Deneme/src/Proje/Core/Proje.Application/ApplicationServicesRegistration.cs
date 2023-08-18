@@ -2,7 +2,10 @@
 using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
 using Proje.Application.PipeLines.Validation;
+using Proje.Domain.Cor.CrossCuttingConcerns.SeriLog;
+using Proje.Domain.Cor.CrossCuttingConcerns.SeriLog.Loggers;
 using Proje.Domain.Core.Applicatioın.PipeLines.Caching;
+using Proje.Domain.Core.Applicatioın.PipeLines.Logging;
 using Proje.Domain.Core.Applicatioın.PipeLines.Transaction;
 using System;
 using System.Collections.Generic;
@@ -28,7 +31,11 @@ public static class ApplicationServicesRegistration
             configuration.AddOpenBehavior(typeof(TransactionScopeBehavior<,>));
             configuration.AddOpenBehavior(typeof(CachingBehavior<,>));
             configuration.AddOpenBehavior(typeof(ICacheRemowerRequest<,>));
+            configuration.AddOpenBehavior(typeof(LogginBehavior<,>));
         });
+
+        services.AddSingleton<LoggerServiceBase, FileLogger>();//bırı senden LoggerService Base ısterse sen bunu fılelogger olarak calsıtır 
+
 
         services.AddSubClassesOfType(Assembly.GetExecutingAssembly(), typeof(BaseBusinessRules)); //İş sınıflarımızı ekliyoeuz burada
 

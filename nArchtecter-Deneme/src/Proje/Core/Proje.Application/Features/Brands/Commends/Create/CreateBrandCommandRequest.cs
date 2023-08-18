@@ -1,5 +1,6 @@
 ﻿using MediatR;
 using Proje.Domain.Core.Applicatioın.PipeLines.Caching;
+using Proje.Domain.Core.Applicatioın.PipeLines.Logging;
 using Proje.Domain.Core.Applicatioın.PipeLines.Transaction;
 using System;
 using System.Collections.Generic;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Proje.Application.Features.Brands.Commends.Create;
 
-public class CreateBrandCommandRequest : IRequest<CreateBrandCommandRespons>, ITransactionalRequest, ICecheRemoverRequest
+public class CreateBrandCommandRequest : IRequest<CreateBrandCommandRespons>, ITransactionalRequest, ICecheRemoverRequest,ILoggableRequest
 {
     public string Name { get; set; }
 

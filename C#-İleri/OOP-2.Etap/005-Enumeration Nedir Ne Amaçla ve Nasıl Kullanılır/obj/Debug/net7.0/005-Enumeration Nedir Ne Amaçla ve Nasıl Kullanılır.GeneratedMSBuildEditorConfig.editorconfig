@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _005_Enumeration_Nedir_Ne_Amaçla_ve_Nasıl_Kullanılır
+build_property.ProjectDir = C:\Users\artredline\Desktop\C#_smilasyonları\C#-İleri\OOP-2.Etap\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\
