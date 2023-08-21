@@ -33,8 +33,8 @@ public static class ApplicationServicesRegistration
             configuration.AddOpenBehavior(typeof(ICacheRemowerRequest<,>));
             configuration.AddOpenBehavior(typeof(LogginBehavior<,>));
         });
-
-        services.AddSingleton<LoggerServiceBase, FileLogger>();//bırı senden LoggerService Base ısterse sen bunu fılelogger olarak calsıtır 
+        services.AddSingleton<LoggerServiceBase, MsSqlLogger>();
+        //services.AddSingleton<LoggerServiceBase, FileLogger>();//bırı senden LoggerService Base ısterse sen bunu fılelogger olarak calsıtır 
 
 
         services.AddSubClassesOfType(Assembly.GetExecutingAssembly(), typeof(BaseBusinessRules)); //İş sınıflarımızı ekliyoeuz burada
@@ -63,7 +63,8 @@ public static class ApplicationServicesRegistration
      Type type,
      Func<IServiceCollection, Type, IServiceCollection>? addWithLifeCycle = null)
     {
-        //Asambly tıpınde bır arama yap 
+        //Alt sınıf mı demek IsSubclassOf
+        //Asambly tıpınde bır arama yap            
         var types = assembly.GetTypes().Where(t => t.IsSubclassOf(type) && type != t).ToList();
         //GetTypes() fonksiyonu, derleme içindeki tüm türleri döndürür.
         //türleri filtrelerken "type" adlı bir türün alt türü olanları seçer. Yani, "type" türünün alt türleri (miras alınan türler) seçilir. Örneğin, "type" bir "Person" türünü temsil ediyorsa, "Person" türünden türetilmiş alt türler seçilir.

@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Proje.Application.Features.Brands.Commends.Create;
-
+//https://github.com/serilog-mssql/serilog-sinks-mssqlserver
 public class CreateBrandCommandRequest : IRequest<CreateBrandCommandRespons>, ITransactionalRequest, ICecheRemoverRequest,ILoggableRequest
 {
     public string Name { get; set; }
