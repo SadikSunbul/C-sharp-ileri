@@ -1,7 +1,4 @@
 ﻿
-
-
-
 #region Hatalı tasarım 
 //class MailSender
 //{
