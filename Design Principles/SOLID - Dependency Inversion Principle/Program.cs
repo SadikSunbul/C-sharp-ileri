@@ -27,6 +27,8 @@ mailService1.SendMail(new Gmail(), "...", "...");
 mailService1.SendMail(new Hotmail(), "...", "...");
 #endregion
 
+
+
 #region İdeal code
 class MailService
 {
@@ -62,6 +64,7 @@ class Hotmail : IMailServer
     }
 }
 #endregion
+
 #region İdeal olmayan cod
 namespace MyNamespace
 {
