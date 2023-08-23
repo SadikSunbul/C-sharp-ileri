@@ -27,7 +27,7 @@ class ParaGönderici1
         //garanti.HesapNo = "....";
         //garanti.ParaGönder(123);
 
-        HalkBnk halkBnk = new HalkBnk();
+        HalkBnk1 halkBnk = new HalkBnk1();
         halkBnk.GönderilcekHesapNo("....");
         halkBnk.ParaGönder(123);
 
