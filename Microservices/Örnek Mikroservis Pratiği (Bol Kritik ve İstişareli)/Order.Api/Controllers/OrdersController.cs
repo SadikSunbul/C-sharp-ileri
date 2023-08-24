@@ -50,7 +50,8 @@ public class OrdersController : ControllerBase
             {
                 Count = i.Count,
                 ProductId = i.ProductId
-            }).ToList()
+            }).ToList(),
+            TotalPrice = order.TotalPrice
         };
         await _publishEndpoint.Publish(orderCreatedEvent);
         return Ok("Ok");

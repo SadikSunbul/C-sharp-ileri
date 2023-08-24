@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "TYUTARsBQCVy9H3Sg2yX3D2tPsG2sOXGs/1CwRlvDJw=",
+  "Source": "Payment.Api",
+  "BasePath": "_content/Payment.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\Microservices\\Örnek Mikroservis Pratiği (Bol Kritik ve İstişareli)\\Stock.Api\\Stock.Api.csproj",
+      "Version": 2,
+      "Source": "Stock.Api",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
