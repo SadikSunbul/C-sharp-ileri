@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NKd9wCSeL18vIzHOlcLxxDnR07AmPjAkDlhx+a+abEU=",
+  "Source": "Order.Api",
+  "BasePath": "_content/Order.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
