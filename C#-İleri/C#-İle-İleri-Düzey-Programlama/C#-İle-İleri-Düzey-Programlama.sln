@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003-OperatorOverloading", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004-Implicit&ExplicitOperatorsOverloading", "004-Implicit&ExplicitOperatorsOverloading\004-Implicit&ExplicitOperatorsOverloading.csproj", "{F4F8BFEC-B84B-408E-A045-DC571A44EA98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005-İstisnai Durum Yönetimi(Exception Handling)", "005-İstisnai Durum Yönetimi(Exception Handling)\005-İstisnai Durum Yönetimi(Exception Handling).csproj", "{4C222C52-E7FA-4F61-841F-E67B44079926}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005-İstisnai Durum Yönetimi(Exception Handling)", "005-İstisnai Durum Yönetimi(Exception Handling)\005-İstisnai Durum Yönetimi(Exception Handling).csproj", "{4C222C52-E7FA-4F61-841F-E67B44079926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006-Dinamik Programatik Nesne Üretim Yöntemleri", "006-Dinamik Programatik Nesne Üretim Yöntemleri\006-Dinamik Programatik Nesne Üretim Yöntemleri.csproj", "{BF14409D-683B-4435-ADF6-9D522E04321F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4C222C52-E7FA-4F61-841F-E67B44079926}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C222C52-E7FA-4F61-841F-E67B44079926}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C222C52-E7FA-4F61-841F-E67B44079926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF14409D-683B-4435-ADF6-9D522E04321F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF14409D-683B-4435-ADF6-9D522E04321F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF14409D-683B-4435-ADF6-9D522E04321F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF14409D-683B-4435-ADF6-9D522E04321F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
