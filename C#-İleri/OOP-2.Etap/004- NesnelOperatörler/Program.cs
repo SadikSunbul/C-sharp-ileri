@@ -70,7 +70,7 @@ operatörüdür.
  */
 
 Person person1 = null;
-person ??= new(); //person null ıse buradakı degerı ver person null olmamıs olsaydı burada yenı nesne uretmıycektı burada 
+person ??= new(); //person null ıse buradakı degerı ver person null olmamıs olsaydı burada yenı nesne uretmıycektı  
 
 int? n = 15;
 n ??= 3;

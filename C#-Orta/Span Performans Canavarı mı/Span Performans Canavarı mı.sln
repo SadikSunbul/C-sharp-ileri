@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Span Performans Canavarı mı", "Span Performans Canavarı mı\Span Performans Canavarı mı.csproj", "{AE7AFB19-31D5-40DC-9584-FC5C1A1507BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7AFB19-31D5-40DC-9584-FC5C1A1507BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7AFB19-31D5-40DC-9584-FC5C1A1507BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7AFB19-31D5-40DC-9584-FC5C1A1507BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7AFB19-31D5-40DC-9584-FC5C1A1507BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E62D41CA-ECA2-4FF8-8DE4-3643D88CAAAF}
+	EndGlobalSection
+EndGlobal

@@ -395,4 +395,5 @@ struct MyStruct6 : IInterface
     }
 }
 
+
 #endregion

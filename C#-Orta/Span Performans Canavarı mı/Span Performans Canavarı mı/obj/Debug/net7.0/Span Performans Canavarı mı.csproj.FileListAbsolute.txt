@@ -1,0 +1,15 @@
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\bin\Debug\net7.0\Span Performans Canavarı mı.exe
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\bin\Debug\net7.0\Span Performans Canavarı mı.deps.json
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\bin\Debug\net7.0\Span Performans Canavarı mı.runtimeconfig.json
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\bin\Debug\net7.0\Span Performans Canavarı mı.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\bin\Debug\net7.0\Span Performans Canavarı mı.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\obj\Debug\net7.0\Span Performans Canavarı mı.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\obj\Debug\net7.0\Span Performans Canavarı mı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\obj\Debug\net7.0\Span Performans Canavarı mı.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\obj\Debug\net7.0\Span Performans Canavarı mı.AssemblyInfo.cs
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\obj\Debug\net7.0\Span Performans Canavarı mı.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\obj\Debug\net7.0\Span Performans Canavarı mı.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\obj\Debug\net7.0\refint\Span Performans Canavarı mı.dll
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\obj\Debug\net7.0\Span Performans Canavarı mı.pdb
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\obj\Debug\net7.0\Span Performans Canavarı mı.genruntimeconfig.cache
+C:\Users\artredline\Desktop\C#_smilasyonları\C#-Orta\Span Performans Canavarı mı\Span Performans Canavarı mı\obj\Debug\net7.0\ref\Span Performans Canavarı mı.dll
