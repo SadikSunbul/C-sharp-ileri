@@ -22,6 +22,7 @@ builder.Services.AddMassTransit(configurator =>
     configurator.AddConsumer<PaymentCompletedEventConsumer>();
     configurator.AddConsumer<StockNotReservedEventConsumer>();
     configurator.AddConsumer<PaymentCompletedEventConsumer>();
+
     configurator.UsingRabbitMq((context, _configurator) =>
     {
         _configurator.Host(builder.Configuration["RabbitMQ"]);

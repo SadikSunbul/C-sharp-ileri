@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004- NesnelOperatörler", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır", "005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.csproj", "{5D4931A6-1338-44E2-BCDC-4D075C61D35F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006- Struct Veri Türü Nedir - Ne Amaçla ve Nasıl Kullanılır", "006- Struct Veri Türü Nedir - Ne Amaçla ve Nasıl Kullanılır\006- Struct Veri Türü Nedir - Ne Amaçla ve Nasıl Kullanılır.csproj", "{19CCA438-701D-4F5E-80F3-FC9E9C81801E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006- Struct Veri Türü Nedir - Ne Amaçla ve Nasıl Kullanılır", "006- Struct Veri Türü Nedir - Ne Amaçla ve Nasıl Kullanılır\006- Struct Veri Türü Nedir - Ne Amaçla ve Nasıl Kullanılır.csproj", "{19CCA438-701D-4F5E-80F3-FC9E9C81801E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007-Static Yapılar", "007-Static Yapılar\007-Static Yapılar.csproj", "{329F5939-65DE-4308-B6C7-3D79E51BC859}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{19CCA438-701D-4F5E-80F3-FC9E9C81801E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19CCA438-701D-4F5E-80F3-FC9E9C81801E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19CCA438-701D-4F5E-80F3-FC9E9C81801E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329F5939-65DE-4308-B6C7-3D79E51BC859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329F5939-65DE-4308-B6C7-3D79E51BC859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329F5939-65DE-4308-B6C7-3D79E51BC859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329F5939-65DE-4308-B6C7-3D79E51BC859}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
