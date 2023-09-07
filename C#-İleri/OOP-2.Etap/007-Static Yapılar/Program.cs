@@ -436,10 +436,221 @@ static class MyClassasf
 #endregion
 
 #region Static Member'lar Protected ile İşaretlenebilir mi?
+/*
+ C# PROGRAMLAMA DİLİNDE, 'PROTECTED' İLE İŞARETLENMİŞ HERHANGİ BİR MEMBER'A, SADE VE
+SADECE O MEMBER'IN TANIMLANDIĞI CLASS'TAN TÜRETİLMİŞ OLAN ALT SINIFLARDAN ERİŞİM
+GÖSTERİLEBİLMEKTEDİR. DOLAYISIYLA 'PROTECTED' KALITIMSAL iLişKi GEREKTİREN BİR ACCESS
+MODIFIER'DIR.
+ */
 
 /*
+ .NET'te miras olayları yalnız instance
+tabanında çalıştığından dolayı
+herhangi bir static member'ı protected
+ile işaretlemek bu açıdan manasız
+olacaktır. Amma velakin, normal
+sınıflarda tanımlanmış olan static
+member'lan protected olarak
+işaretlersek, bu durumda, o static
+member'lara, sadece ilgili sınıftan
+türeyen alt sınıflar üzerinden erişim
+gösterebileceğimiz lakin sınıf türleri
+üzerinden erişemeyeceğimiz anlamına
+gelmektedir.
  
+ */
+class MyClassasfas : sadasf
+{
+    public void A()
+    {
+        sadasf.MyProperty = 12;
+    }
+}
+
+class sadasf
+{
+    protected static int MyProperty { get; set; }
+}
+/*
+ Eğer ki, bu static elemanı protected ile işaretlememiş
+olsaydık, buradaki kalıtımsal ilişki neticesinde
+MyProperty'e MyCIass2'den erişebiliyor ve biryandan
+da hem MyCIass hem de MyClass2 türleri üzerinden
+de erişim gösterebiliyor olurduk. işte, protected
+sayesinde static bir member'a sadece kalıtımsal
+durumdaki alt sınıf içerisinde erişim sınırı getirmiş
+oluyoruz..
  */
 
 #endregion
 
+#region this Keyword'ünün Static Metotlar ile ilişkisi
+/*
+ BİR INSTANCE İÇERİSİNDE O INSTANCE'I TEMSİL EDEN THIS KEYWORD'(JNE, STATIC METOTLARDAN
+ERİŞİLEMEZ!
+ */
+/*
+ Static olmayan
+member'larda hem static
+olan hem de olmayan
+tüm member'lara
+erişilebilir.
+
+Lakin static olan member'lar da
+sadece static olan
+member'lara erişilebilecektir.
+Bundan dolayı instance ile
+alakalı olan this keyword'üne
+de erişim mümkün değildir!
+ */
+
+class asfsaaggas
+{
+    static public void a()
+    {
+        // this.  --> burada da this kullanılamaz hata verir static olamamsı lazım kullana bılmek ıcın 
+    }
+    public void basf() { }
+
+    public asfsaaggas()
+    {
+        a(); //erişim vardır 
+             // this.a();//erişim yoktur hata verir
+        this.basf();    //erişim vardır
+    }
+}
+#endregion
+
+#region Static Yapılar ile Nesneler Arasındaki Farklar Nelerdir?
+/*
+ Static yapılar ile nesneler arasında
+önemli farklar mevcuttur ve bu farklar,
+C# ve diğer nesne yönelimli
+programlama dillerinde sıkça karşılaşılan
+kavramlardır.
+ */
+/*
+ 
+---->İlk Oluşturma Zamanı
+    Static Yapılar : Sınıfın uygulamada yüklendiği an ve ilgili sınıftan
+herhangi bir nesne oluşturulmadan önce oluşturulurlar.
+
+    Nesneler : Developer tarafından bir instance talebi geldiğinde
+oluşturulurlar.
+
+---->Ömür
+Static Yapılar : Uygulamanın yaşam ömrüyle doğru orantılıdır.
+Uygulama başladığında oluşturulur ve sonlandırıldığında yok olurlar.
+
+Nesneler [ Öluştuİüidukları scopla kendilerini işaretleyen 
+referansın varlığıyla sınırlıdırlar. Aksi taktirde bir müddet sonra imha
+edilirler.
+
+--->Erişim
+Static Yapılar : Tanımlandıkları sınıfın adından, uygulamanın herhangi
+bir noktasında erişim gösterilebilir.
+
+Nesneler : Sınıfın instance' ının oluşturulmasıyla ve referansını elde
+tuttukça erişilebilir.
+
+--->Verisel Paylasım
+Stafic Yapılar : Sınıfın kendisi veri olarak değerlendirilir ve bu veriler
+uygulama çapında, tekil olarak tutulmaktadır.
+
+Nesneler : Her nesne kendi özel verisini tutmaktadır ve tanımlandıkları
+yahut referanslı oldukları faaliyet alanları çapında erişilebilir.
+
+--->Faliyet alanı
+Static Yapılar : Uygulama çapındadır.
+
+Nesneler : Tanımlandıkları veya referans edillebildikleri metotlarla
+sınırlıdır.
+ */
+#endregion
+#region Static Constructor
+/*
+ Biliyorsunuz ki, C#'ta sınıfların static
+constructor mevcuttur. Bunu OOP I .
+Etap eğitimlerinde tam teferruatlı
+değerIendirmiştik.
+
+Bizler bu s atic constructor ile, ilgili sınıfta
+tanımlanmış olan bir static yapının ilk kullanılması
+ya da o sınıftan ilk nesne oluşturulması sürecinde
+bir kereye mahsus tetiklenmesiyle belli işlemler
+gerçekleştirebilmekteyiz.
+
+Slatic constructor; yapısal olarak
+otomatik çalıştırıldıklarından dölavt
+deveıoper tarafından doğrudan
+çağrılıp, çatıştırılamaz.
+
+Tanımlandıkcın sınıftan nesne oluşturma
+ya da o sır-i[ftaki herhangi bir static yapıyı
+tetikleme sürecinde bir kereye mahsus
+çalışacağı için parametrik bir
+yapılanmada değildir!
+
+Vee genellikle Stufic constructor, sınıl içerişinde
+tanırnianmış olan siatic eiemaniorıvy başlangıç
+değer*erini atayabilmek ve bunu bir kerye
+mahsus yapabilmek için kullanılmaktadır.
+ */
+class asfasggasas
+{
+    public static asfasggasas afs;
+    static asfasggasas()
+    {
+        afs = new();
+    }
+}
+
+#endregion
+
+#region Static Local Functicn
+/*
+ 7.0 ile gelen Local Function özelliği
+8.0 ile static özellik kazanmış
+vaziyettedir.
+
+Bizler bir metodun içerisinde Non Static
+Local Function tanımlayabildiğimiz gibi
+Static Local Function'da
+tanımlayabilmekte ve işlemlerimizi
+yürütebilmekteyiz.
+ */
+
+
+class Deneme
+{
+    static int a = 3;
+
+    public void X(int b = 5)
+    {
+        int c = 7;
+        Y();
+        Z(b, c);
+
+        void Y()
+        {
+            Console.WriteLine($"{a}-{b}-{c}");
+        }
+
+        static void Z(int b, int c)
+        {
+            //Burada statik olmayanları kullanmak ıcın parametreden ala bılırız
+            Console.WriteLine($"{a}-{b}-{c}");
+        }
+        /*
+        Static Loca! Function'larda, yerel
+        değişkenlere erişim engellenmiştir lakin
+        stafic yapılara erişim direkt
+        sağlanabilmektedir. Haliyle yerel
+        değişkenlerin değerlerini parametreler
+        aracılığıyla Static Local Function içerisine
+        aktarabilmekteyiz
+         */
+    }
+}
+
+#endregion
