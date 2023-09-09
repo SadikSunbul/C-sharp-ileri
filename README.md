@@ -65,7 +65,7 @@
 - [x]  Delete
 - [x]  Global CRUD
 
-> # Agaclar Örnek Yasaklı Kelime Bulma
+ # Agaclar Örnek Yasaklı Kelime Bulma
 #### Amazonda sorulmuş bir mülakat sorusudur: Yasaklı kelimelerimiz var ve bize gelen yorum,istek bv. işlemelrde bu yasaklı kelimelerin sansürlenmesini istiyoruz bunu en hızlı ve maliyetsiz bir şeklide çözünüz (Ağaçlar ile çözüzüyor)
 
 > ## Microservices
