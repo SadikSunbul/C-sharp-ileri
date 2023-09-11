@@ -1,0 +1,5 @@
+C:\Users\artredline\Desktop\AlişverişSimilasyon\Eticaret\Eticaret\obj\Debug\net6.0\Eticaret.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\AlişverişSimilasyon\Eticaret\Eticaret\obj\Debug\net6.0\Eticaret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\AlişverişSimilasyon\Eticaret\Eticaret\obj\Debug\net6.0\Eticaret.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\AlişverişSimilasyon\Eticaret\Eticaret\obj\Debug\net6.0\Eticaret.AssemblyInfo.cs
+C:\Users\artredline\Desktop\AlişverişSimilasyon\Eticaret\Eticaret\obj\Debug\net6.0\Eticaret.csproj.CoreCompileInputs.cache

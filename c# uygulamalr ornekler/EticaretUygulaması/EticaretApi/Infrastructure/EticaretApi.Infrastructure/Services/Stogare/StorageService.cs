@@ -1,0 +1,33 @@
+﻿using EticaretApi.Application.Abstractions.Storage;
+using Microsoft.AspNetCore.Http;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EticaretApi.Infrastructure.Services.Stogare
+{
+    public class StorageService : Application.Abstractions.Storage.IStorageService
+    {
+        readonly IStorage _storage;
+        public StorageService(IStorage storage)
+        {
+            _storage = storage;
+        }
+
+        public string StorageName { get => _storage.GetType().Name;  } //hangı storageden geldıgını bıldırıcek 
+
+        public async Task DeleteAsync(string pathOrContainerName, string fileName)
+        =>await _storage.DeleteAsync(pathOrContainerName, fileName);
+
+        public  List<string> GetFiles(string pathOrContainerName)
+        =>  _storage.GetFiles(pathOrContainerName);
+
+        public bool HasFiel(string pathOrContainerName, string fileName)
+        =>_storage.HasFiel(pathOrContainerName, fileName);
+
+        public Task<List<(string fileName, string pathOrContainerName)>> UploadAsync(string pathOrContainerName, IFormFileCollection files)
+        =>_storage.UploadAsync(pathOrContainerName, files);
+    }
+}

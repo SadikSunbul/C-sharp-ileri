@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Restorant.Api
+build_property.RootNamespace = Restorant.Api
+build_property.ProjectDir = C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Presentation\Restorant.Api\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Presentation\Restorant.Api
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Home/BoşMasalar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb8WfTWFzYWxhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Home/Kayıt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLYXnEsXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Home/LikeListe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaWtlTGlzdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Home/NKGiriş.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOS0dpcmnFny5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Home/Sepet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXBldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Home/Siparişler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaXBhcmnFn2xlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Home/SiparişTakip.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaXBhcmnFn1Rha2lwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Home/Yemekler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxZZW1la2xlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Worker/CalisanMenü.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya2VyXENhbGlzYW5NZW7DvC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Worker/CGiriS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya2VyXENHaXJpUy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Worker/MasaEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya2VyXE1hc2FFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Worker/MasaKontrol.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya2VyXE1hc2FLb250cm9sLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Worker/Siparişler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya2VyXFNpcGFyacWfbGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Worker/YemekEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya2VyXFllbWVrRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artredline/Desktop/c\# uygulamalr ornekler/ÖrnekRestorant/Presentation/Restorant.Api/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a3v2s3z03d

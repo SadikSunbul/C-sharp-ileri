@@ -1,0 +1,115 @@
+﻿<script src="~/wwwroot/jquery/jquery.min.js"></script>
+<script src="~/wwwroot/jquery-validate/jquery.validate.min.js"></script>
+<script src="~/wwwroot/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+@model VM_Customer_Create 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Kayıt Sayfası</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="container">
+		<h1>Kayıt Olun</h1>
+		<form asp-action="Kayıt" asp-controller="Home" method="post">
+			<label for="ad">Ad:</label>
+			<input type="text" id="ad" asp-for="İsim" >
+
+			<label for="soyad">Soyad:</label>
+			<input type="text" id="soyad" asp-for="Soyisim" required>
+
+			<label for="tel">Telefon Numarası:</label>
+			<input type="tel" id="tel" asp-for="Phone" pattern="[0-9]{10}" required>
+
+			<label for="mail">E-mail:</label>
+			<input type="email" id="mail" asp-for="Email" required>
+
+			<label for="sifre">Şifre:</label>
+			<input type="password" id="sifre" asp-for="Password" required>
+
+			<button type="submit">Kaydol</button>
+		</form>
+	</div>
+	<div class ="container" asp-validation-summary="All">
+
+	</div>
+	<div>
+		@ViewBag.Hata
+	</div>
+</body>
+</html>
+
+
+<style>
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #F5F5F5;
+	font-family: Arial, sans-serif;
+}
+
+.container {
+	background-color: #FFFFFF;
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 20px;
+	color: #333333;
+}
+
+form {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 20px;
+}
+
+label {
+	font-size: 16px;
+	font-weight: bold;
+	color: #333333;
+	margin-bottom: 5px;
+}
+
+input[type=text], input[type=password], input[type=email], input[type=tel] {
+	padding: 10px;
+	border-radius: 5px;
+	border: none;
+	background-color: #F5F5F5;
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, .3);
+	width: 100%;
+	margin-bottom: 20px;
+	font-size: 16px;
+	color: #555555;
+}
+
+button[type=submit] {
+	background-color: #4CAF50;
+	color: white;
+	border-radius: 5px;
+	padding: 10px 20px;
+	border: none;
+	cursor: pointer;
+	font-size: 16px;
+	margin-top: 20px;
+	transition: background-color .3s ease-in-out;
+}
+
+button[type=submit]:hover {
+	background-color: #3E8E41;
+}
+
+</style>

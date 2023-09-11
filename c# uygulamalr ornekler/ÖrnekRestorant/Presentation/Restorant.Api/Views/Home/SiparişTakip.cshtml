@@ -1,0 +1,94 @@
+﻿@using Restorant.Application.ViewModel._Order;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sipariş Takip Sayfası</title>
+
+    <style>
+        .siparis-takip-kutusu {
+            background-color: #f2f2f2;
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 1200px;
+        }
+
+            .siparis-takip-kutusu h2 {
+                text-align: center;
+                font-size: 24px;
+                margin-bottom: 20px;
+            }
+
+        .siparis-bilgileri {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .siparis-resim img {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            margin-right: 20px;
+        }
+
+        .siparis-detaylari {
+            flex: 1;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td {
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+
+    </style>
+</head>
+<body>
+    @{
+        foreach (var item in ViewBag.takip as List<VM_Order_List>)
+        {
+            <div class="siparis-takip-kutusu">
+                <h2>Sipariş Takip </h2>
+                <div class="siparis-bilgileri">
+
+                    <div class="siparis-resim">
+                        <img src="https://example.com/img/12345.jpg" alt="Ürün Resmi">
+                    </div>
+                    <div class="siparis-detaylari">
+                        <table>
+                            <tr>
+                                <td>Mas No:</td>
+                                <td>@item.Masano</td>
+                            </tr>
+                            <tr>
+                                <td>Ad Soyad:</td>
+                                <td>@item.İsim @item.Soyisim</td>
+                            </tr>
+                            <tr>
+                                <td>Sipariş içeriği:</td>
+                                @{
+                                    foreach (var food in item.FoodName as List<string>)
+                                    {
+                                        <td>@food</td>
+                                    }
+                                }
+                            </tr>
+
+                        </table>
+                    </div>
+
+
+
+                </div>
+            </div>
+        }
+    }
+</body>
+</html>

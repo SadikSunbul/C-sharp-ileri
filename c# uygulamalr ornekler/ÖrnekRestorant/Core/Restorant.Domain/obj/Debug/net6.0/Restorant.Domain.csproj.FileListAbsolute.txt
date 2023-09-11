@@ -1,0 +1,24 @@
+C:\Users\artredline\Desktop\ÖrnekRestorant\Core\Restorant.Domain\bin\Debug\net6.0\Restorant.Domain.deps.json
+C:\Users\artredline\Desktop\ÖrnekRestorant\Core\Restorant.Domain\bin\Debug\net6.0\Restorant.Domain.dll
+C:\Users\artredline\Desktop\ÖrnekRestorant\Core\Restorant.Domain\bin\Debug\net6.0\Restorant.Domain.pdb
+C:\Users\artredline\Desktop\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.AssemblyInfo.cs
+C:\Users\artredline\Desktop\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.dll
+C:\Users\artredline\Desktop\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\refint\Restorant.Domain.dll
+C:\Users\artredline\Desktop\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.pdb
+C:\Users\artredline\Desktop\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\ref\Restorant.Domain.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Core\Restorant.Domain\bin\Debug\net6.0\Restorant.Domain.deps.json
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Core\Restorant.Domain\bin\Debug\net6.0\Restorant.Domain.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Core\Restorant.Domain\bin\Debug\net6.0\Restorant.Domain.pdb
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.AssemblyInfo.cs
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\refint\Restorant.Domain.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\Restorant.Domain.pdb
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Core\Restorant.Domain\obj\Debug\net6.0\ref\Restorant.Domain.dll

@@ -1,0 +1,59 @@
+﻿@using static OrnekVebSitesi.Controllers.HomeController;
+@model Launge
+<head>
+   
+    <!-- CSS for the rest of the page -->
+    <link href="~/css/home.css" rel="stylesheet" />
+    <globalization requestEncoding="utf-8" responseEncoding="utf-8" culture="auto" uiCulture="auto" />
+    <title>Design Your Journey</title>
+</head>
+<body>
+
+    <section id="header" class="header">
+        <!-- Main navigation bar -->
+        <div id="main-navbar" class="main-navbar">
+            <div class="navbar-links">
+                <ul>
+                    <li><a href="~/Home/Index">Anasayfa</a></li>
+
+                    <li><a href="#">İşimiz</a></li>
+                    <li><a href="#">Ne Yapıyoruz</a></li>
+                    <li><a href="~/Home/Hakkımızda">Hakkımızda</a></li>
+                    <li><a href="~/Home/BizeUlaşın">Bize Ulaşın</a></li>
+                </ul>
+            </div>
+            <div class="navbar-button">
+                <a href="~/Home/GirişYap">Giriş Yap</a>
+            </div>
+        </div>
+
+        <!-- Side navigation bar -->
+        <div class="side-navbar">
+            <img src="~/İmages/logo.png" class="logo" />
+            <a href="#">LETEST PROJECTS</a>
+
+            <!-- Language selector menu -->
+            <div class="language-selector" >
+                <form asp-action="Index" asp-controller="Home" method="post">
+                    <select asp-for="@Model.dil">
+
+                        <option  value="en">English</option>
+                        <option value="tr">Türkçe</option>
+                        <option value="es">Español</option>
+
+                    </select>
+                    
+                </form>
+            </div>
+        </div>
+
+        <div>
+            @RenderBody()
+        </div>
+    </section>
+
+
+</body>
+
+
+

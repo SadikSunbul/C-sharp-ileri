@@ -1,0 +1,24 @@
+C:\Users\artredline\Desktop\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\bin\Debug\net6.0\EticaretApi.Domain.deps.json
+C:\Users\artredline\Desktop\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\bin\Debug\net6.0\EticaretApi.Domain.dll
+C:\Users\artredline\Desktop\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\bin\Debug\net6.0\EticaretApi.Domain.pdb
+C:\Users\artredline\Desktop\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.AssemblyInfo.cs
+C:\Users\artredline\Desktop\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.dll
+C:\Users\artredline\Desktop\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\refint\EticaretApi.Domain.dll
+C:\Users\artredline\Desktop\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.pdb
+C:\Users\artredline\Desktop\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\ref\EticaretApi.Domain.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\bin\Debug\net6.0\EticaretApi.Domain.deps.json
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\bin\Debug\net6.0\EticaretApi.Domain.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\bin\Debug\net6.0\EticaretApi.Domain.pdb
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.AssemblyInfo.cs
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\refint\EticaretApi.Domain.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\EticaretApi.Domain.pdb
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\EticaretUygulaması\EticaretApi\Core\EticaretApi.Domain\obj\Debug\net6.0\ref\EticaretApi.Domain.dll

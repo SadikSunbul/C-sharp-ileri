@@ -1,0 +1,34 @@
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Infrasturucture.deps.json
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Infrasturucture.dll
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Infrasturucture.pdb
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Application.dll
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Domain.dll
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Application.pdb
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Domain.pdb
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.AssemblyInfo.cs
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.csproj.CopyComplete
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.dll
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\refint\Restorant.Infrasturucture.dll
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.pdb
+C:\Users\artredline\Desktop\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\ref\Restorant.Infrasturucture.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Infrasturucture.deps.json
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Infrasturucture.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Infrasturucture.pdb
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Application.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Domain.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Application.pdb
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\bin\Debug\net6.0\Restorant.Domain.pdb
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.AssemblyInfo.cs
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.csproj.CopyComplete
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\refint\Restorant.Infrasturucture.dll
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\Restorant.Infrasturucture.pdb
+C:\Users\artredline\Desktop\c# uygulamalr ornekler\ÖrnekRestorant\Infrastructure\Restorant.Infrasturucture\obj\Debug\net6.0\ref\Restorant.Infrasturucture.dll

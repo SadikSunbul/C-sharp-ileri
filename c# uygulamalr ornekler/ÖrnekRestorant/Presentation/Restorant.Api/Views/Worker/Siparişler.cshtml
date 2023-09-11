@@ -1,0 +1,114 @@
+﻿@using Restorant.Application.ViewModel._Food;
+@using Restorant.Application.ViewModel._Order;
+@using Restorant.Domain.Entiteis;
+@model List<Order>
+<script src="~/wwwroot/jquery/jquery.min.js"></script>
+<script src="~/wwwroot/jquery-validate/jquery.validate.min.js"></script>
+<script src="~/wwwroot/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Siparişler Sayfası</title>
+    <style>
+        /* genel stil */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        /* her kutu için stil */
+        .siparis-kutusu {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background-color: #F9F9F9;
+            border: 1px solid #DDD;
+            margin-bottom: 10px;
+            padding: 10px;
+            width: 80%;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+            .siparis-kutusu img {
+                max-height: 80px;
+                object-fit: cover;
+                margin-right: 10px;
+            }
+        /* içerik için stil */
+        .siparis-bilgileri {
+            display: flex;
+            flex-direction: column;
+            text-align: right;
+        }
+
+        .siparis-ad {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .siparis-masa-no {
+            font-size: 18px;
+            margin-bottom: 5px;
+        }
+
+        .siparis-tarih {
+            font-size: 16px;
+            color: #888;
+        }
+
+        .siparis-buton {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+            .siparis-buton:hover {
+                background-color: #3E8E41;
+            }
+    </style>
+</head>
+<body>
+
+    <partial name="~/Views/Worker/CalisanMenü.cshtml"></partial>
+    <div class="siparis-listesi">
+
+        <!-- örnek bir sipariş kutusu -->
+        @*@{
+            foreach (var item in Model as List<Order>)
+            {
+                <div class="siparis-kutusu">
+                    <img src="siparis-resim.jpg" alt="Sipariş Resmi">
+                    <div class="siparis-bilgileri">
+                        <form asp-action="Siparişonayı" asp-controller="Worker" method="post">
+                        <div class="siparis-ad">@item.Foods</div>
+                        <div class="siparis-masa-no">Masa No: @item.Table</div>
+                        <div class="siparis-tarih">Sipariş Tarihi: @item.CreateDate</div>
+                        <button class="siparis-buton" >Sipariş Alındı</button>
+                        </form>
+                        
+                    </div>
+                </div>
+            }
+        }*@
+        <div class="siparis-kutusu">
+            <img src="siparis-resim.jpg" alt="Sipariş Resmi">
+            <div class="siparis-bilgileri">
+                <div class="siparis-ad">Köfte</div>
+                <div class="siparis-masa-no">Masa No: 5</div>
+                <div class="siparis-tarih">Sipariş Tarihi: 28.05.2023 13:30</div>
+                <button class="siparis-buton">Sipariş Alındı</button>
+            </div>
+        </div>
+
+        <!-- diğer sipariş kutuları buraya eklenebilir -->
+
+    </div>
+</body>
+</html>
+
