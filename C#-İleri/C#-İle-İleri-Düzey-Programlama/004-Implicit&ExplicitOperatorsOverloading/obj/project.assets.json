@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\004-Implicit&ExplicitOperatorsOverloading\\004-Implicit&ExplicitOperatorsOverloading.csproj",
+      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\004-Implicit&ExplicitOperatorsOverloading\\004-Implicit&ExplicitOperatorsOverloading.csproj",
       "projectName": "004-Implicit&ExplicitOperatorsOverloading",
-      "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\004-Implicit&ExplicitOperatorsOverloading\\004-Implicit&ExplicitOperatorsOverloading.csproj",
+      "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\004-Implicit&ExplicitOperatorsOverloading\\004-Implicit&ExplicitOperatorsOverloading.csproj",
       "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\004-Implicit&ExplicitOperatorsOverloading\\obj\\",
+      "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\004-Implicit&ExplicitOperatorsOverloading\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

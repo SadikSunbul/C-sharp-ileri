@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\OOP\\2.2.OOPDers\\2.2.OOPDers.csproj",
+      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\OOP\\2.2.OOPDers\\2.2.OOPDers.csproj",
       "projectName": "2.2.OOPDers",
-      "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\OOP\\2.2.OOPDers\\2.2.OOPDers.csproj",
+      "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\OOP\\2.2.OOPDers\\2.2.OOPDers.csproj",
       "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\OOP\\2.2.OOPDers\\obj\\",
+      "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\OOP\\2.2.OOPDers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

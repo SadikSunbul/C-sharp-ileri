@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\007-Generic Yapılar (Derinlemesine İnceleme)\\007-Generic Yapılar (Derinlemesine İnceleme).csproj",
+      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\007-Generic Yapılar (Derinlemesine İnceleme)\\007-Generic Yapılar (Derinlemesine İnceleme).csproj",
       "projectName": "007-Generic Yapılar (Derinlemesine İnceleme)",
-      "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\007-Generic Yapılar (Derinlemesine İnceleme)\\007-Generic Yapılar (Derinlemesine İnceleme).csproj",
+      "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\007-Generic Yapılar (Derinlemesine İnceleme)\\007-Generic Yapılar (Derinlemesine İnceleme).csproj",
       "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\007-Generic Yapılar (Derinlemesine İnceleme)\\obj\\",
+      "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\007-Generic Yapılar (Derinlemesine İnceleme)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

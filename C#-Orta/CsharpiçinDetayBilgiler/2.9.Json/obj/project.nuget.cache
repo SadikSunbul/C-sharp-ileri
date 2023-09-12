@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "57Xc98SP9FJuJ0DP1p0k+bQ0boHEwq7WaR+mX0UEIJoUr4d0E7RoVlQ5IFW04QKW6QMsvFnL3TUFpNmvqTjSOg==",
+  "dgSpecHash": "XsSmEjaI0EluDGJME1ajbXAnz7E4vXB4zEI82xw7M/VO0Krhb/Xz7nAOxR6EysZz2KuJBkqCswyyzdgNR1PZ4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\CsharpiçinDetayBilgiler\\2.9.Json\\2.9.Json.csproj",
+  "projectFilePath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-Orta\\CsharpiçinDetayBilgiler\\2.9.Json\\2.9.Json.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\artredline\\.nuget\\packages\\fakedata\\1.0.0\\fakedata.1.0.0.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

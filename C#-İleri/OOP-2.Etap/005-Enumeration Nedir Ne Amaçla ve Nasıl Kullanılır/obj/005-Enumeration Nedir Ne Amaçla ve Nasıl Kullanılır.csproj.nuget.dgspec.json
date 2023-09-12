@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.csproj": {}
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.csproj": {
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.csproj",
+        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.csproj",
         "projectName": "005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır",
-        "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.csproj",
+        "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır.csproj",
         "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\\obj\\",
+        "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\005-Enumeration Nedir Ne Amaçla ve Nasıl Kullanılır\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

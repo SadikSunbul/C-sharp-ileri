@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\001.NameSpace\\001.NameSpace.csproj": {}
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\001.NameSpace\\001.NameSpace.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\001.NameSpace\\001.NameSpace.csproj": {
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\001.NameSpace\\001.NameSpace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\001.NameSpace\\001.NameSpace.csproj",
+        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\001.NameSpace\\001.NameSpace.csproj",
         "projectName": "001.NameSpace",
-        "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\001.NameSpace\\001.NameSpace.csproj",
+        "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\001.NameSpace\\001.NameSpace.csproj",
         "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\001.NameSpace\\obj\\",
+        "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\001.NameSpace\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

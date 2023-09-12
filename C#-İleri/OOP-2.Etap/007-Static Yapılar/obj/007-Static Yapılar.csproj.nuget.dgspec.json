@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\007-Static Yapılar\\007-Static Yapılar.csproj": {}
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\007-Static Yapılar\\007-Static Yapılar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\007-Static Yapılar\\007-Static Yapılar.csproj": {
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\007-Static Yapılar\\007-Static Yapılar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\007-Static Yapılar\\007-Static Yapılar.csproj",
+        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\007-Static Yapılar\\007-Static Yapılar.csproj",
         "projectName": "007-Static Yapılar",
-        "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\007-Static Yapılar\\007-Static Yapılar.csproj",
+        "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\007-Static Yapılar\\007-Static Yapılar.csproj",
         "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\007-Static Yapılar\\obj\\",
+        "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\007-Static Yapılar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

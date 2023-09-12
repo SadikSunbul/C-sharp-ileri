@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\002-Ref-Return&Ref-Local\\002-Ref-Return&Ref-Local.csproj",
+      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\002-Ref-Return&Ref-Local\\002-Ref-Return&Ref-Local.csproj",
       "projectName": "002-Ref-Return&Ref-Local",
-      "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\002-Ref-Return&Ref-Local\\002-Ref-Return&Ref-Local.csproj",
+      "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\002-Ref-Return&Ref-Local\\002-Ref-Return&Ref-Local.csproj",
       "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\002-Ref-Return&Ref-Local\\obj\\",
+      "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\002-Ref-Return&Ref-Local\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

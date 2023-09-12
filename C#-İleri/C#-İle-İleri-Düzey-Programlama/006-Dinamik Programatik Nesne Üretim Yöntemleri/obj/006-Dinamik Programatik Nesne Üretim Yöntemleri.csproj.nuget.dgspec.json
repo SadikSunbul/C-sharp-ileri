@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\006-Dinamik Programatik Nesne Üretim Yöntemleri\\006-Dinamik Programatik Nesne Üretim Yöntemleri.csproj": {}
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\006-Dinamik Programatik Nesne Üretim Yöntemleri\\006-Dinamik Programatik Nesne Üretim Yöntemleri.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\006-Dinamik Programatik Nesne Üretim Yöntemleri\\006-Dinamik Programatik Nesne Üretim Yöntemleri.csproj": {
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\006-Dinamik Programatik Nesne Üretim Yöntemleri\\006-Dinamik Programatik Nesne Üretim Yöntemleri.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\006-Dinamik Programatik Nesne Üretim Yöntemleri\\006-Dinamik Programatik Nesne Üretim Yöntemleri.csproj",
+        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\006-Dinamik Programatik Nesne Üretim Yöntemleri\\006-Dinamik Programatik Nesne Üretim Yöntemleri.csproj",
         "projectName": "006-Dinamik Programatik Nesne Üretim Yöntemleri",
-        "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\006-Dinamik Programatik Nesne Üretim Yöntemleri\\006-Dinamik Programatik Nesne Üretim Yöntemleri.csproj",
+        "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\006-Dinamik Programatik Nesne Üretim Yöntemleri\\006-Dinamik Programatik Nesne Üretim Yöntemleri.csproj",
         "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\006-Dinamik Programatik Nesne Üretim Yöntemleri\\obj\\",
+        "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\006-Dinamik Programatik Nesne Üretim Yöntemleri\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

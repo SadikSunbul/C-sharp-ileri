@@ -58,7 +58,7 @@ string iaim2 = (string)isim;  //--> buradada UnBoxing islemı yapıldı
 
 #endregion
 
-#region Vaer Keywordü
+#region Var Keywordü
 //tutulacak degerın turune uygun degısken tanımlıya bılmek ıcın kullanılan bır keywortur kendısıne atanan degerın turune burunur
 
 var medenıhal = true; //burada var bool olu r

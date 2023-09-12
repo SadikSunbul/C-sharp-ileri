@@ -1,7 +1,4 @@
 ﻿
-
-
-
 #region Generic Yapılar (Derinlemesine İnceleme)
 /*
  Generic Yapılar Nedir? Ne Amaca Hizmet Eder?
@@ -177,7 +174,7 @@ aynı mantıkla tanımlanıp,
 kullanılmaktadırlar. Lakin generic
 metotlar öyle değil...'
 
-Bizler yapısal olarak bir rnçtodu 'da •
+Bizler yapısal olarak bir methodu 'da •
 generic olarak tanımlayabiliyor ve
 kullanabiliyoruz,
 
@@ -455,7 +452,7 @@ where T : notnull
 ***************** Default Constraint  ****************
 Tür parametresinin null veya varsayılan bir değere sahip olan türlerden
 olması gerektiğini belirten kısıtlamadır. Sadece override metotlarda ve • .
-explicit implementation edilmiş interface rnetotlarında kullanılabilmektedir.
+explicit implementation edilmiş interface metotlarında kullanılabilmektedir.
 Kullanımı
 where T : default
  */
@@ -479,7 +476,7 @@ interface IInterface
 
 class Bb : Aa, IInterface
 {
-    public override void X<T>() where T : default
+    public override void X<T>() where T : default //overide edilmiş buradada kullanıla bılırler
     {
         base.X<T>();
     }

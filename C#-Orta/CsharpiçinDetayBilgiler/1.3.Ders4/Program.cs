@@ -9,7 +9,7 @@ if (x is string xx)
 {
     Console.WriteLine("x degıskenı strıng tıptedir");
 }
-else if (x is int xx)
+else if (x is int yy)
 {
     Console.WriteLine("x degıskenı int tıptedir");
 }

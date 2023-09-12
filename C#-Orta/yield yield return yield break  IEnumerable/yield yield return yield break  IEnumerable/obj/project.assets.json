@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-Orta\\yield yield return yield break  IEnumerable\\yield yield return yield break  IEnumerable\\yield yield return yield break  IEnumerable.csproj",
+      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-Orta\\yield yield return yield break  IEnumerable\\yield yield return yield break  IEnumerable\\yield yield return yield break  IEnumerable.csproj",
       "projectName": "yield yield return yield break  IEnumerable",
-      "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-Orta\\yield yield return yield break  IEnumerable\\yield yield return yield break  IEnumerable\\yield yield return yield break  IEnumerable.csproj",
+      "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-Orta\\yield yield return yield break  IEnumerable\\yield yield return yield break  IEnumerable\\yield yield return yield break  IEnumerable.csproj",
       "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-Orta\\yield yield return yield break  IEnumerable\\yield yield return yield break  IEnumerable\\obj\\",
+      "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-Orta\\yield yield return yield break  IEnumerable\\yield yield return yield break  IEnumerable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

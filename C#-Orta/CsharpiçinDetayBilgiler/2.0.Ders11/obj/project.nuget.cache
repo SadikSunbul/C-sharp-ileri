@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/aGgblHRFGx//oBteMomIhPRjQfI/BJbsidlYqqECDIeNpmcdlVOreW21Cd525cKxtqf07VUFigIGobUxggW/A==",
+  "dgSpecHash": "ANp3KBLMeXYNZpfl5dTu+bmG6dgFQEEwLvoYFvMRHNH97n3g/1fPwoO6zNyxaGF2gaVbcJg2mlxuSFJwgS3+bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\CsharpiçinDetayBilgiler\\2.0.Ders11\\2.0.Ders11.csproj",
+  "projectFilePath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-Orta\\CsharpiçinDetayBilgiler\\2.0.Ders11\\2.0.Ders11.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\artredline\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\artredline\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"

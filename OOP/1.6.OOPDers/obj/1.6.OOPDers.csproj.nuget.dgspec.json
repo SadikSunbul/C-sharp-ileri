@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\OOP\\1.6.OOPDers\\1.6.OOPDers.csproj": {}
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\OOP\\1.6.OOPDers\\1.6.OOPDers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\OOP\\1.6.OOPDers\\1.6.OOPDers.csproj": {
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\OOP\\1.6.OOPDers\\1.6.OOPDers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\OOP\\1.6.OOPDers\\1.6.OOPDers.csproj",
+        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\OOP\\1.6.OOPDers\\1.6.OOPDers.csproj",
         "projectName": "1.6.OOPDers",
-        "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\OOP\\1.6.OOPDers\\1.6.OOPDers.csproj",
+        "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\OOP\\1.6.OOPDers\\1.6.OOPDers.csproj",
         "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\OOP\\1.6.OOPDers\\obj\\",
+        "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\OOP\\1.6.OOPDers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

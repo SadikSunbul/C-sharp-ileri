@@ -142,7 +142,7 @@ Metınsel temsiller enum degerlerını kullanıcı arayuzlerınde goruntulenme g
 
 Bır enumeratıon ıcerısındekı elemanlara metınsel temsıl etmek asagıdcakı yontem uygulanmaktadır
  */
-/*
+
 using System.ComponentModel;
 using System.Reflection;
 using System.Threading.Channels;
@@ -178,7 +178,7 @@ enum OerderStatus
     [Description("Sipariş Askıda")]
     Suspend
 }
-*/
+
 /*
 -----> Enumeration
         Enumerationlar, semantik anlamı olan

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\004- NesnelOperatörler\\004- NesnelOperatörler.csproj": {}
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\004- NesnelOperatörler\\004- NesnelOperatörler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\004- NesnelOperatörler\\004- NesnelOperatörler.csproj": {
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\004- NesnelOperatörler\\004- NesnelOperatörler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\004- NesnelOperatörler\\004- NesnelOperatörler.csproj",
+        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\004- NesnelOperatörler\\004- NesnelOperatörler.csproj",
         "projectName": "004- NesnelOperatörler",
-        "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\004- NesnelOperatörler\\004- NesnelOperatörler.csproj",
+        "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\004- NesnelOperatörler\\004- NesnelOperatörler.csproj",
         "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\004- NesnelOperatörler\\obj\\",
+        "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\004- NesnelOperatörler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

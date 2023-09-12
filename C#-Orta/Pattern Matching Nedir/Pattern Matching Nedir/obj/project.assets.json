@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-Orta\\Pattern Matching Nedir\\Pattern Matching Nedir\\Pattern Matching Nedir.csproj",
+      "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-Orta\\Pattern Matching Nedir\\Pattern Matching Nedir\\Pattern Matching Nedir.csproj",
       "projectName": "Pattern Matching Nedir",
-      "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-Orta\\Pattern Matching Nedir\\Pattern Matching Nedir\\Pattern Matching Nedir.csproj",
+      "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-Orta\\Pattern Matching Nedir\\Pattern Matching Nedir\\Pattern Matching Nedir.csproj",
       "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-Orta\\Pattern Matching Nedir\\Pattern Matching Nedir\\obj\\",
+      "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-Orta\\Pattern Matching Nedir\\Pattern Matching Nedir\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

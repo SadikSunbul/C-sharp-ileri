@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\001-DizilereDerinlemesineBakış\\001-DizilereDerinlemesineBakış.csproj": {}
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\001-DizilereDerinlemesineBakış\\001-DizilereDerinlemesineBakış.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\001-DizilereDerinlemesineBakış\\001-DizilereDerinlemesineBakış.csproj": {
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\001-DizilereDerinlemesineBakış\\001-DizilereDerinlemesineBakış.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\001-DizilereDerinlemesineBakış\\001-DizilereDerinlemesineBakış.csproj",
+        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\001-DizilereDerinlemesineBakış\\001-DizilereDerinlemesineBakış.csproj",
         "projectName": "001-DizilereDerinlemesineBakış",
-        "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\001-DizilereDerinlemesineBakış\\001-DizilereDerinlemesineBakış.csproj",
+        "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\001-DizilereDerinlemesineBakış\\001-DizilereDerinlemesineBakış.csproj",
         "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\001-DizilereDerinlemesineBakış\\obj\\",
+        "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\C#-İle-İleri-Düzey-Programlama\\001-DizilereDerinlemesineBakış\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

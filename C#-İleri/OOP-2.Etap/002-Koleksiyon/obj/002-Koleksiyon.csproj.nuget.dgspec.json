@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\002-Koleksiyon\\002-Koleksiyon.csproj": {}
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\002-Koleksiyon\\002-Koleksiyon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\002-Koleksiyon\\002-Koleksiyon.csproj": {
+    "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\002-Koleksiyon\\002-Koleksiyon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\002-Koleksiyon\\002-Koleksiyon.csproj",
+        "projectUniqueName": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\002-Koleksiyon\\002-Koleksiyon.csproj",
         "projectName": "002-Koleksiyon",
-        "projectPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\002-Koleksiyon\\002-Koleksiyon.csproj",
+        "projectPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\002-Koleksiyon\\002-Koleksiyon.csproj",
         "packagesPath": "C:\\Users\\artredline\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artredline\\Desktop\\C#_smilasyonları\\C#-İleri\\OOP-2.Etap\\002-Koleksiyon\\obj\\",
+        "outputPath": "C:\\Users\\artredline\\Desktop\\C-sharp-ileri\\C#-İleri\\OOP-2.Etap\\002-Koleksiyon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
