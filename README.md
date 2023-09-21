@@ -36,6 +36,7 @@
  - [x]  Abstract Class
  - [x]  İnterface
  - [x]  Explıcıty İnterface & Name Hıdıng
+ - [x]  Record Structs
 
 # Algoritma Ve Veri Yapıları
 - [x] ArrayList
