@@ -397,3 +397,24 @@ struct MyStruct6 : IInterface
 
 
 #endregion
+
+
+MyStruct myStruct = new() { a = "1" };
+MyStruct2 myStruct2 = new() { a = "1" };
+
+if (myStruct == myStruct2) //structlarda hata verır  equels ıle kullanılmalıdır
+{
+
+}
+
+
+struct MyStruct
+{
+    public string a;
+}
+
+
+struct MyStruct2
+{
+    public string a;
+}
