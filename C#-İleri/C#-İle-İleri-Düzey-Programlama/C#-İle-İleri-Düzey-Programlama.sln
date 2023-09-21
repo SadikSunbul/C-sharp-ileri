@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005-İstisnai Durum Yöneti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006-Dinamik Programatik Nesne Üretim Yöntemleri", "006-Dinamik Programatik Nesne Üretim Yöntemleri\006-Dinamik Programatik Nesne Üretim Yöntemleri.csproj", "{BF14409D-683B-4435-ADF6-9D522E04321F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007-Generic Yapılar (Derinlemesine İnceleme)", "007-Generic Yapılar (Derinlemesine İnceleme)\007-Generic Yapılar (Derinlemesine İnceleme).csproj", "{23CC6459-045E-46E5-9925-3C14CCADC2C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007-Generic Yapılar (Derinlemesine İnceleme)", "007-Generic Yapılar (Derinlemesine İnceleme)\007-Generic Yapılar (Derinlemesine İnceleme).csproj", "{23CC6459-045E-46E5-9925-3C14CCADC2C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008-Derinlemesine Covariance & Contravariance Davranışları", "008-Derinlemesine Covariance & Contravariance Davranışları\008-Derinlemesine Covariance & Contravariance Davranışları.csproj", "{4CDE9F33-1040-4F3B-8006-AF939EEE48E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{23CC6459-045E-46E5-9925-3C14CCADC2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23CC6459-045E-46E5-9925-3C14CCADC2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23CC6459-045E-46E5-9925-3C14CCADC2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDE9F33-1040-4F3B-8006-AF939EEE48E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDE9F33-1040-4F3B-8006-AF939EEE48E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDE9F33-1040-4F3B-8006-AF939EEE48E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDE9F33-1040-4F3B-8006-AF939EEE48E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
